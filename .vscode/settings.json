@@ -1,0 +1,16 @@
+{
+  "liveServer.settings.ignoreFiles": [
+    "**/.runtime/**",
+    "**/.venv-lyrics/**",
+    "**/lyrics/**",
+    "**/data/lyrics.json",
+    "**/tools/**",
+    "**/tests/**",
+    "**/.git/**",
+    "**/.vscode/**"
+  ],
+  "files.watcherExclude": {
+    "**/.runtime/**": true,
+    "**/.venv-lyrics/**": true
+  }
+}

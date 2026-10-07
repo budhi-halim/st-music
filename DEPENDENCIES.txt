@@ -1,0 +1,65 @@
+SWEET TIMES MUSIC - DEPENDENCIES AND TECHNICAL SOURCES
+Prepared 2026-10-07.
+
+BROWSER
+The website uses local HTML/CSS/JavaScript, SVG icons and native browser media
+APIs. No external lyric-display framework or remote CDN is required. No model
+weights, third-party Python packages, or FFmpeg binaries are bundled in the ZIP.
+
+LOCAL PREPROCESSING
+Setup installs the following into .venv-lyrics (not into YuE2/ComfyUI):
+
+stable-ts 2.19.1
+  Package: https://pypi.org/project/stable-ts/2.19.1/
+  Source/API: https://github.com/jianfch/stable-ts
+  License identified by upstream: MIT.
+  Known-text forced alignment, original_split=True to retain newline segments.
+  Upstream was archived on May 30, 2026 and says development is paused.
+  This package pins a documented version; it does not claim ongoing maintenance.
+
+openai-whisper 20250625
+  Package: https://pypi.org/project/openai-whisper/20250625/
+  Source: https://github.com/openai/whisper
+  License identified by upstream: MIT.
+  Default alignment model: medium.en. Model weights download separately on use.
+
+torch 2.7.1 and torchaudio 2.7.1
+  Official wheel combinations:
+  https://pytorch.org/get-started/previous-versions/
+  Setup selects the official cu128 (CUDA 12.8) or cpu wheel index.
+  Their installed distributions include their own applicable license notices.
+
+NumPy >=1.26,<2.3, plus required transitive dependencies.
+  This is a constrained environment, not a fully hash-locked dependency graph.
+  Pip tooling/transitive packages can receive updates. Record the setup log
+  and installed environment when exact reproduction is required.
+
+FFmpeg
+  https://ffmpeg.org/
+  Supply your existing installation. No FFmpeg download/install is automated.
+  Its build-specific licensing and companion DLL requirements depend on the
+  distribution used. Keep the original notices with your installation.
+
+Package/model downloads require internet. The preparation code does not call
+an online transcription service or upload audio/text. Browser playback needs
+only the static app, recordings, and generated data/lyrics.json.
+
+SERVICE WORKER REFERENCES
+  Browser-side service workers and request handling:
+  https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+  Origin and path scope of registration:
+  https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerContainer/register
+  Installed-app start URL:
+  https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest/Reference/start_url
+  Inspecting, updating, and unregistering workers / inspecting caches:
+  https://developer.chrome.com/docs/devtools/progressive-web-apps/
+
+The new page does not register a worker. sw.js is retained only to retire an
+old installation when its browser next updates that worker URL. It cannot
+bind server ports, change IP addresses, or configure VS Code Live Server.
+
+BROWSER TIMING REFERENCES
+  Audio playback clock:
+  https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime
+  Visible-frame animation scheduling:
+  https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame

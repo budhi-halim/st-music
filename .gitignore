@@ -1,0 +1,9 @@
+# Local preparation only. Never publish dependencies/models/cache/logs.
+/.runtime/
+/.venv-lyrics/
+/lyrics/vocals/
+/tools/ffmpeg/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6596 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-07T11:09:43+00:00",
+  "tracks": {
+    "chatgpt_1a": {
+      "id": "chatgpt_1a",
+      "status": "auto",
+      "lyricsHash": "7e84f4195f03b02bbb19705cf86f8490180d5a8e1fb56b8aff75ebf239ff0616",
+      "duration": 203.92,
+      "warnings": [],
+      "lines": [
+        {
+          "text": "Good things grow",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.56,
+          "end": 9.4,
+          "flags": []
+        },
+        {
+          "text": "When we give them care",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 11.62,
+          "end": 14.06,
+          "flags": []
+        },
+        {
+          "text": "Morning light comes through the trees",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 18.34,
+          "end": 20.42,
+          "flags": []
+        },
+        {
+          "text": "Green leaves moving in the breeze",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 20.52,
+          "end": 22.6,
+          "flags": []
+        },
+        {
+          "text": "Clean hands ready, counters clear",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.76,
+          "end": 24.84,
+          "flags": []
+        },
+        {
+          "text": "Care begins before you're here",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 25.02,
+          "end": 27.08,
+          "flags": []
+        },
+        {
+          "text": "Take the time to get things right",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 27.4,
+          "end": 29.4,
+          "flags": []
+        },
+        {
+          "text": "Bring that care to every bite",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 29.58,
+          "end": 31.66,
+          "flags": []
+        },
+        {
+          "text": "Set the table, stay a while",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 31.9,
+          "end": 33.82,
+          "flags": []
+        },
+        {
+          "text": "Let the first taste bring a smile",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 34.3,
+          "end": 36.18,
+          "flags": []
+        },
+        {
+          "text": "A little thought in what we choose",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 38.0,
+          "end": 41.54,
+          "flags": []
+        },
+        {
+          "text": "A little love in what we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 42.22,
+          "end": 46.34,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 47.72,
+          "end": 50.44,
+          "flags": []
+        },
+        {
+          "text": "From the little seeds to the love we show",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 51.16,
+          "end": 55.08,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 56.76,
+          "end": 58.94,
+          "flags": []
+        },
+        {
+          "text": "A little joy for us to share",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 59.04,
+          "end": 61.08,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, for the life we know",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 61.58,
+          "end": 63.96,
+          "flags": []
+        },
+        {
+          "text": "Love this world, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 64.28,
+          "end": 68.52,
+          "flags": []
+        },
+        {
+          "text": "Rivers running, open sky",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 69.6,
+          "end": 74.66,
+          "flags": []
+        },
+        {
+          "text": "Clouds that let the sunlight by",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 74.82,
+          "end": 76.92,
+          "flags": []
+        },
+        {
+          "text": "There's a world beyond our door",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 77.08,
+          "end": 79.24,
+          "flags": []
+        },
+        {
+          "text": "Worth a little caring for",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 79.4,
+          "end": 81.42,
+          "flags": []
+        },
+        {
+          "text": "Bring more plants into your day",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 81.72,
+          "end": 83.72,
+          "flags": []
+        },
+        {
+          "text": "Let that kindness lead the way",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 83.8,
+          "end": 85.88,
+          "flags": []
+        },
+        {
+          "text": "For the earth beneath our feet",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 86.02,
+          "end": 88.2,
+          "flags": []
+        },
+        {
+          "text": "For the lives we've yet to meet",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 88.44,
+          "end": 90.72,
+          "flags": []
+        },
+        {
+          "text": "A little thought in what we choose",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 92.34,
+          "end": 95.86,
+          "flags": []
+        },
+        {
+          "text": "A little love in what we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 96.88,
+          "end": 100.22,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 102.12,
+          "end": 104.84,
+          "flags": []
+        },
+        {
+          "text": "From the little seeds to the love we show",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 105.74,
+          "end": 109.5,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 111.12,
+          "end": 113.28,
+          "flags": []
+        },
+        {
+          "text": "A little joy for us to share",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 113.28,
+          "end": 115.4,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, for the life we know",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 115.52,
+          "end": 118.24,
+          "flags": []
+        },
+        {
+          "text": "Love this world, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 118.48,
+          "end": 122.9,
+          "flags": []
+        },
+        {
+          "text": "There's a world beyond the table",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 126.82,
+          "end": 133.16,
+          "flags": []
+        },
+        {
+          "text": "There's a life beyond today",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 133.68,
+          "end": 135.12,
+          "flags": []
+        },
+        {
+          "text": "Let the care we put in making",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 135.6,
+          "end": 137.5,
+          "flags": []
+        },
+        {
+          "text": "Be the care we give away",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 137.9,
+          "end": 139.5,
+          "flags": []
+        },
+        {
+          "text": "Keep a place for something green",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 140.7,
+          "end": 144.48,
+          "flags": []
+        },
+        {
+          "text": "In the days still yet unseen",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 145.2,
+          "end": 150.12,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 152.48,
+          "end": 156.88,
+          "flags": []
+        },
+        {
+          "text": "From the little seeds to the love we show",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 157.84,
+          "end": 161.64,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 163.42,
+          "end": 165.34,
+          "flags": []
+        },
+        {
+          "text": "A little joy for us to share",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 165.34,
+          "end": 167.48,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, for the life we know",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 167.56,
+          "end": 170.36,
+          "flags": []
+        },
+        {
+          "text": "Love this world, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 170.42,
+          "end": 174.76,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, made with care",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 176.54,
+          "end": 183.94,
+          "flags": []
+        },
+        {
+          "text": "Good things grow when we share",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 187.3,
+          "end": 193.02,
+          "flags": []
+        }
+      ],
+      "timedLines": 48,
+      "alignedFrom": "chatgpt_1a.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_1b": {
+      "id": "chatgpt_1b",
+      "status": "needs-review",
+      "lyricsHash": "7e84f4195f03b02bbb19705cf86f8490180d5a8e1fb56b8aff75ebf239ff0616",
+      "duration": 201.2,
+      "warnings": [
+        "Line 6: many zero-length words",
+        "Line 47: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Good things grow",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.92,
+          "end": 14.82,
+          "flags": []
+        },
+        {
+          "text": "When we give them care",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 17.34,
+          "end": 19.3,
+          "flags": []
+        },
+        {
+          "text": "Morning light comes through the trees",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.96,
+          "end": 25.02,
+          "flags": []
+        },
+        {
+          "text": "Green leaves moving in the breeze",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 25.2,
+          "end": 27.3,
+          "flags": []
+        },
+        {
+          "text": "Clean hands ready, counters clear",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 27.5,
+          "end": 29.52,
+          "flags": []
+        },
+        {
+          "text": "Care begins before you're here",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 30.54,
+          "end": 31.86,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Take the time to get things right",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 32.18,
+          "end": 34.18,
+          "flags": []
+        },
+        {
+          "text": "Bring that care to every bite",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 34.4,
+          "end": 36.46,
+          "flags": []
+        },
+        {
+          "text": "Set the table, stay a while",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 36.64,
+          "end": 38.54,
+          "flags": []
+        },
+        {
+          "text": "Let the first taste bring a smile",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 38.9,
+          "end": 41.16,
+          "flags": []
+        },
+        {
+          "text": "A little thought in what we choose",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 42.24,
+          "end": 45.3,
+          "flags": []
+        },
+        {
+          "text": "A little love in what we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 46.64,
+          "end": 49.72,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 50.54,
+          "end": 54.34,
+          "flags": []
+        },
+        {
+          "text": "From the little seeds to the love we show",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 55.3,
+          "end": 58.72,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 59.0,
+          "end": 62.2,
+          "flags": []
+        },
+        {
+          "text": "A little joy for us to share",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 62.46,
+          "end": 64.44,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, for the life we know",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 64.88,
+          "end": 68.64,
+          "flags": []
+        },
+        {
+          "text": "Love this world, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 68.98,
+          "end": 74.72,
+          "flags": []
+        },
+        {
+          "text": "Rivers running, open sky",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 77.26,
+          "end": 79.86,
+          "flags": []
+        },
+        {
+          "text": "Clouds that let the sunlight by",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 80.04,
+          "end": 82.2,
+          "flags": []
+        },
+        {
+          "text": "There's a world beyond our door",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 82.32,
+          "end": 84.54,
+          "flags": []
+        },
+        {
+          "text": "Worth a little caring for",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 84.7,
+          "end": 86.76,
+          "flags": []
+        },
+        {
+          "text": "Bring more plants into your day",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 86.92,
+          "end": 88.7,
+          "flags": []
+        },
+        {
+          "text": "Let that kindness lead the way",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 89.36,
+          "end": 91.24,
+          "flags": []
+        },
+        {
+          "text": "For the earth beneath our feet",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 91.24,
+          "end": 93.58,
+          "flags": []
+        },
+        {
+          "text": "For the lives we've yet to meet",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 93.72,
+          "end": 95.84,
+          "flags": []
+        },
+        {
+          "text": "A little thought in what we choose",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 96.98,
+          "end": 100.1,
+          "flags": []
+        },
+        {
+          "text": "A little love in what we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 101.54,
+          "end": 104.52,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 106.14,
+          "end": 109.12,
+          "flags": []
+        },
+        {
+          "text": "From the little seeds to the love we show",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 110.06,
+          "end": 113.68,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 114.9,
+          "end": 117.04,
+          "flags": []
+        },
+        {
+          "text": "A little joy for us to share",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 117.18,
+          "end": 119.26,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, for the life we know",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 119.84,
+          "end": 123.44,
+          "flags": []
+        },
+        {
+          "text": "Love this world, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 123.86,
+          "end": 129.4,
+          "flags": []
+        },
+        {
+          "text": "There's a world beyond the table",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 130.8,
+          "end": 134.76,
+          "flags": []
+        },
+        {
+          "text": "There's a life beyond today",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 134.76,
+          "end": 136.86,
+          "flags": []
+        },
+        {
+          "text": "Let the care we put in making",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 137.12,
+          "end": 139.2,
+          "flags": []
+        },
+        {
+          "text": "Be the care we give away",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 139.58,
+          "end": 141.52,
+          "flags": []
+        },
+        {
+          "text": "Keep a place for something green",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 142.82,
+          "end": 145.26,
+          "flags": []
+        },
+        {
+          "text": "In the days still yet unseen",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 147.1,
+          "end": 150.64,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 152.6,
+          "end": 157.22,
+          "flags": []
+        },
+        {
+          "text": "From the little seeds to the love we show",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 158.22,
+          "end": 161.74,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 163.0,
+          "end": 165.06,
+          "flags": []
+        },
+        {
+          "text": "A little joy for us to share",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 165.18,
+          "end": 167.22,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, for the life we know",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 167.74,
+          "end": 171.52,
+          "flags": []
+        },
+        {
+          "text": "Love this world, let the good things grow",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 171.82,
+          "end": 177.36,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, made with care",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 178.22,
+          "end": 186.64,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Good things grow when we share",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 188.94,
+          "end": 195.54,
+          "flags": []
+        }
+      ],
+      "timedLines": 48,
+      "alignedFrom": "chatgpt_1b.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_2a": {
+      "id": "chatgpt_2a",
+      "status": "needs-review",
+      "lyricsHash": "3cc5e24b9186b4a48c7ea7b069c8d37190f2092a697eb1ec27b8a7e26df6a380",
+      "duration": 184.88,
+      "warnings": [
+        "Line 1: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 29: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 35: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 35: many zero-length words",
+        "Line 36: invalid/zero-length timing; left untimed",
+        "Line 37: many words in a very short span",
+        "Line 37: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 37: many zero-length words",
+        "Line 38: unusually long line span",
+        "Line 38: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Sweet Times",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.46,
+          "end": 6.16,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Come on, pass it round",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 7.4,
+          "end": 9.2,
+          "flags": []
+        },
+        {
+          "text": "Turn the ordinary up",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 15.24,
+          "end": 18.68,
+          "flags": []
+        },
+        {
+          "text": "Bring your people, fill your cup",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 18.98,
+          "end": 20.52,
+          "flags": []
+        },
+        {
+          "text": "Something good is on the way",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 20.92,
+          "end": 22.6,
+          "flags": []
+        },
+        {
+          "text": "Put a little green into your day",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.92,
+          "end": 24.7,
+          "flags": []
+        },
+        {
+          "text": "Clean hands working, every step",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 25.0,
+          "end": 27.54,
+          "flags": []
+        },
+        {
+          "text": "High standards set and promises kept",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 28.7,
+          "end": 31.94,
+          "flags": []
+        },
+        {
+          "text": "Let the flavor take the spotlight",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 32.04,
+          "end": 34.98,
+          "flags": []
+        },
+        {
+          "text": "Made with pride and made just right",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 35.28,
+          "end": 37.22,
+          "flags": []
+        },
+        {
+          "text": "Pull up a chair, there's room for you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 37.66,
+          "end": 39.36,
+          "flags": []
+        },
+        {
+          "text": "We've got something good to share with you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 39.7,
+          "end": 41.74,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, pass the good around",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 43.62,
+          "end": 45.56,
+          "flags": []
+        },
+        {
+          "text": "Plant-based flavor, look what we've found",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 45.82,
+          "end": 47.6,
+          "flags": []
+        },
+        {
+          "text": "Made with care and served with pride",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 47.88,
+          "end": 50.24,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, side by side",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 50.72,
+          "end": 55.12,
+          "flags": []
+        },
+        {
+          "text": "Keep it green and let it shine",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 55.72,
+          "end": 58.4,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 58.78,
+          "end": 62.16,
+          "flags": []
+        },
+        {
+          "text": "Doesn't take a grand parade",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 63.66,
+          "end": 65.34,
+          "flags": []
+        },
+        {
+          "text": "To show some care in choices made",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 65.62,
+          "end": 67.52,
+          "flags": []
+        },
+        {
+          "text": "Think about the world outside",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 67.64,
+          "end": 69.38,
+          "flags": []
+        },
+        {
+          "text": "All that green that keeps us alive",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 69.74,
+          "end": 71.58,
+          "flags": []
+        },
+        {
+          "text": "Let the garden set the tone",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 71.74,
+          "end": 74.24,
+          "flags": []
+        },
+        {
+          "text": "Show some love to our shared home",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 74.88,
+          "end": 78.44,
+          "flags": []
+        },
+        {
+          "text": "Greener habits start with you",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 79.88,
+          "end": 82.08,
+          "flags": []
+        },
+        {
+          "text": "And there's joy in something new",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 82.44,
+          "end": 84.24,
+          "flags": []
+        },
+        {
+          "text": "Pull up a chair, there's room for you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 84.42,
+          "end": 86.08,
+          "flags": []
+        },
+        {
+          "text": "We've got something good to share with you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 86.48,
+          "end": 88.52,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, pass the good around",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 90.48,
+          "end": 92.36,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Plant-based flavor, look what we've found",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 92.68,
+          "end": 94.36,
+          "flags": []
+        },
+        {
+          "text": "Made with care and served with pride",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 94.64,
+          "end": 97.0,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, side by side",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 97.52,
+          "end": 101.58,
+          "flags": []
+        },
+        {
+          "text": "Keep it green and let it shine",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 102.62,
+          "end": 105.14,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 106.26,
+          "end": 109.26,
+          "flags": []
+        },
+        {
+          "text": "Not just a flash, not just a trend",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 109.88,
+          "end": 116.28,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Care from beginning to the end",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "For the soil, the sky, the sea",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 116.28,
+          "end": 116.7,
+          "flags": [
+            "many words in a very short span",
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "For the way we want to be",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 116.7,
+          "end": 137.62,
+          "flags": [
+            "unusually long line span",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Raise your glass and make some room",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 138.08,
+          "end": 140.04,
+          "flags": []
+        },
+        {
+          "text": "There's a greener kind of groove",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 140.86,
+          "end": 145.12,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, pass the good around",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 147.42,
+          "end": 149.28,
+          "flags": []
+        },
+        {
+          "text": "Plant-based flavor, look what we've found",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 149.44,
+          "end": 151.36,
+          "flags": []
+        },
+        {
+          "text": "Made with care and served with pride",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 151.56,
+          "end": 153.94,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, side by side",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 154.96,
+          "end": 158.62,
+          "flags": []
+        },
+        {
+          "text": "Keep it green and let it shine",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 159.48,
+          "end": 162.28,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 162.6,
+          "end": 166.44,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 168.18,
+          "end": 171.0,
+          "flags": []
+        },
+        {
+          "text": "Pass it round, one more time",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 171.4,
+          "end": 180.02,
+          "flags": []
+        }
+      ],
+      "timedLines": 47,
+      "alignedFrom": "chatgpt_2a.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_2b": {
+      "id": "chatgpt_2b",
+      "status": "needs-review",
+      "lyricsHash": "3cc5e24b9186b4a48c7ea7b069c8d37190f2092a697eb1ec27b8a7e26df6a380",
+      "duration": 179.68,
+      "warnings": [
+        "Line 1: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 35: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 35: many zero-length words",
+        "Line 36: invalid/zero-length timing; left untimed",
+        "Line 37: many zero-length words",
+        "Line 41: low model word probability (diagnostic, not calibrated confidence)"
+      ],
+      "lines": [
+        {
+          "text": "Sweet Times",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.3,
+          "end": 1.06,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Come on, pass it round",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 1.92,
+          "end": 5.18,
+          "flags": []
+        },
+        {
+          "text": "Turn the ordinary up",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 8.5,
+          "end": 18.98,
+          "flags": []
+        },
+        {
+          "text": "Bring your people, fill your cup",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 19.22,
+          "end": 21.06,
+          "flags": []
+        },
+        {
+          "text": "Something good is on the way",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 21.28,
+          "end": 23.0,
+          "flags": []
+        },
+        {
+          "text": "Put a little green into your day",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 23.26,
+          "end": 25.2,
+          "flags": []
+        },
+        {
+          "text": "Clean hands working, every step",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 25.34,
+          "end": 27.24,
+          "flags": []
+        },
+        {
+          "text": "High standards set and promises kept",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 27.44,
+          "end": 29.44,
+          "flags": []
+        },
+        {
+          "text": "Let the flavor take the spotlight",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 29.46,
+          "end": 31.54,
+          "flags": []
+        },
+        {
+          "text": "Made with pride and made just right",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 31.88,
+          "end": 33.7,
+          "flags": []
+        },
+        {
+          "text": "Pull up a chair, there's room for you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 34.26,
+          "end": 37.26,
+          "flags": []
+        },
+        {
+          "text": "We've got something good to share with you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 37.92,
+          "end": 42.08,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, pass the good around",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 42.14,
+          "end": 43.9,
+          "flags": []
+        },
+        {
+          "text": "Plant-based flavor, look what we've found",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 44.18,
+          "end": 46.08,
+          "flags": []
+        },
+        {
+          "text": "Made with care and served with pride",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 46.18,
+          "end": 48.06,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, side by side",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 48.2,
+          "end": 50.2,
+          "flags": []
+        },
+        {
+          "text": "Keep it green and let it shine",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 50.64,
+          "end": 52.24,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 52.38,
+          "end": 54.98,
+          "flags": []
+        },
+        {
+          "text": "Doesn't take a grand parade",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 56.78,
+          "end": 64.72,
+          "flags": []
+        },
+        {
+          "text": "To show some care in choices made",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 64.94,
+          "end": 67.06,
+          "flags": []
+        },
+        {
+          "text": "Think about the world outside",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 67.48,
+          "end": 69.02,
+          "flags": []
+        },
+        {
+          "text": "All that green that keeps us alive",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 69.16,
+          "end": 71.14,
+          "flags": []
+        },
+        {
+          "text": "Let the garden set the tone",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 71.28,
+          "end": 73.14,
+          "flags": []
+        },
+        {
+          "text": "Show some love to our shared home",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 73.26,
+          "end": 75.34,
+          "flags": []
+        },
+        {
+          "text": "Greener habits start with you",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 75.58,
+          "end": 77.4,
+          "flags": []
+        },
+        {
+          "text": "And there's joy in something new",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 77.54,
+          "end": 79.52,
+          "flags": []
+        },
+        {
+          "text": "Pull up a chair, there's room for you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 79.98,
+          "end": 83.12,
+          "flags": []
+        },
+        {
+          "text": "We've got something good to share with you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 83.8,
+          "end": 88.18,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, pass the good around",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 88.22,
+          "end": 89.86,
+          "flags": []
+        },
+        {
+          "text": "Plant-based flavor, look what we've found",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 90.2,
+          "end": 92.0,
+          "flags": []
+        },
+        {
+          "text": "Made with care and served with pride",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 92.14,
+          "end": 93.96,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, side by side",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 94.1,
+          "end": 96.24,
+          "flags": []
+        },
+        {
+          "text": "Keep it green and let it shine",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 96.58,
+          "end": 98.16,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 98.24,
+          "end": 100.82,
+          "flags": []
+        },
+        {
+          "text": "Not just a flash, not just a trend",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 102.12,
+          "end": 105.92,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Care from beginning to the end",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "For the soil, the sky, the sea",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 124.02,
+          "end": 127.46,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "For the way we want to be",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 128.08,
+          "end": 129.44,
+          "flags": []
+        },
+        {
+          "text": "Raise your glass and make some room",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 129.8,
+          "end": 131.5,
+          "flags": []
+        },
+        {
+          "text": "There's a greener kind of groove",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 131.88,
+          "end": 137.08,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, pass the good around",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 140.42,
+          "end": 142.0,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Plant-based flavor, look what we've found",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 142.2,
+          "end": 144.18,
+          "flags": []
+        },
+        {
+          "text": "Made with care and served with pride",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 144.32,
+          "end": 146.16,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, side by side",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 146.3,
+          "end": 148.36,
+          "flags": []
+        },
+        {
+          "text": "Keep it green and let it shine",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 148.72,
+          "end": 150.32,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 150.44,
+          "end": 153.22,
+          "flags": []
+        },
+        {
+          "text": "Good food, good mood, Sweet Times",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 157.3,
+          "end": 161.62,
+          "flags": []
+        },
+        {
+          "text": "Pass it round, one more time",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 166.3,
+          "end": 173.6,
+          "flags": []
+        }
+      ],
+      "timedLines": 47,
+      "alignedFrom": "chatgpt_2b.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_3a": {
+      "id": "chatgpt_3a",
+      "status": "auto",
+      "lyricsHash": "d870d6c14008c36276f66f56b448121134e3ea5a8db783ff61f870b461de90ad",
+      "duration": 187.4,
+      "warnings": [],
+      "lines": [
+        {
+          "text": "Let the daylight in",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 1.42,
+          "end": 13.28,
+          "flags": []
+        },
+        {
+          "text": "Let a little green begin",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 13.52,
+          "end": 15.56,
+          "flags": []
+        },
+        {
+          "text": "Open up the window wide",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 16.38,
+          "end": 18.1,
+          "flags": []
+        },
+        {
+          "text": "Let the morning come inside",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 18.48,
+          "end": 20.52,
+          "flags": []
+        },
+        {
+          "text": "A leaf unfolds, a new day starts",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 20.9,
+          "end": 23.4,
+          "flags": []
+        },
+        {
+          "text": "Simple things can fill our hearts",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 23.64,
+          "end": 25.84,
+          "flags": []
+        },
+        {
+          "text": "Clean and careful, start to end",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 26.0,
+          "end": 28.02,
+          "flags": []
+        },
+        {
+          "text": "Made with care we'd give a friend",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 28.44,
+          "end": 30.42,
+          "flags": []
+        },
+        {
+          "text": "Every step deserves our best",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 31.08,
+          "end": 33.14,
+          "flags": []
+        },
+        {
+          "text": "Taste can tell you all the rest",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 33.14,
+          "end": 36.1,
+          "flags": []
+        },
+        {
+          "text": "A little joy, a little care",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 36.3,
+          "end": 40.98,
+          "flags": []
+        },
+        {
+          "text": "There's something good for us to share",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 41.82,
+          "end": 45.9,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a little more green",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 47.58,
+          "end": 49.74,
+          "flags": []
+        },
+        {
+          "text": "A little more love in our daily routine",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 49.92,
+          "end": 52.06,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, bright on the plate",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 52.46,
+          "end": 54.48,
+          "flags": []
+        },
+        {
+          "text": "Come for the flavor, you're welcome to stay",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 54.76,
+          "end": 56.94,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, wherever we go",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 57.12,
+          "end": 59.32,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 59.42,
+          "end": 61.96,
+          "flags": []
+        },
+        {
+          "text": "You don't need to chase the sun",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 65.96,
+          "end": 68.42,
+          "flags": []
+        },
+        {
+          "text": "There's a little here for everyone",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 68.68,
+          "end": 70.78,
+          "flags": []
+        },
+        {
+          "text": "Pass a plate from hand to hand",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 71.3,
+          "end": 73.16,
+          "flags": []
+        },
+        {
+          "text": "Keep some kindness for the land",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 73.52,
+          "end": 75.54,
+          "flags": []
+        },
+        {
+          "text": "Trees that shade us, seas that shine",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 76.28,
+          "end": 78.6,
+          "flags": []
+        },
+        {
+          "text": "Not just yours and not just mine",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 78.78,
+          "end": 81.06,
+          "flags": []
+        },
+        {
+          "text": "Let the choices that we make",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 81.16,
+          "end": 83.2,
+          "flags": []
+        },
+        {
+          "text": "Hold some care for nature's sake",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 83.66,
+          "end": 85.86,
+          "flags": []
+        },
+        {
+          "text": "A little joy, a little care",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 87.38,
+          "end": 91.48,
+          "flags": []
+        },
+        {
+          "text": "There's something good for us to share",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 92.48,
+          "end": 96.14,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a little more green",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 97.9,
+          "end": 100.18,
+          "flags": []
+        },
+        {
+          "text": "A little more love in our daily routine",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 100.38,
+          "end": 102.5,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, bright on the plate",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 102.82,
+          "end": 104.88,
+          "flags": []
+        },
+        {
+          "text": "Come for the flavor, you're welcome to stay",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 105.18,
+          "end": 107.34,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, wherever we go",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 107.5,
+          "end": 109.74,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 110.04,
+          "end": 112.26,
+          "flags": []
+        },
+        {
+          "text": "No need to change it all at once",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 112.92,
+          "end": 130.3,
+          "flags": []
+        },
+        {
+          "text": "A greener plate can be enough",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 131.0,
+          "end": 135.2,
+          "flags": []
+        },
+        {
+          "text": "To start a thoughtful way of living",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 136.52,
+          "end": 139.68,
+          "flags": []
+        },
+        {
+          "text": "More aware of what we're giving",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 141.56,
+          "end": 144.42,
+          "flags": []
+        },
+        {
+          "text": "Let the future have its place",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 145.96,
+          "end": 148.12,
+          "flags": []
+        },
+        {
+          "text": "In the little things we make",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 149.54,
+          "end": 154.86,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a little more green",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 155.5,
+          "end": 157.74,
+          "flags": []
+        },
+        {
+          "text": "A little more love in our daily routine",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 157.98,
+          "end": 160.12,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, bright on the plate",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 160.4,
+          "end": 162.48,
+          "flags": []
+        },
+        {
+          "text": "Come for the flavor, you're welcome to stay",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 162.78,
+          "end": 164.96,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, wherever we go",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 165.12,
+          "end": 167.34,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 167.42,
+          "end": 169.86,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good days flow",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 171.88,
+          "end": 178.78,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 180.12,
+          "end": 184.28,
+          "flags": []
+        }
+      ],
+      "timedLines": 48,
+      "alignedFrom": "chatgpt_3a.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_3b": {
+      "id": "chatgpt_3b",
+      "status": "auto",
+      "lyricsHash": "d870d6c14008c36276f66f56b448121134e3ea5a8db783ff61f870b461de90ad",
+      "duration": 177.32,
+      "warnings": [],
+      "lines": [
+        {
+          "text": "Let the daylight in",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.76,
+          "end": 3.9,
+          "flags": []
+        },
+        {
+          "text": "Let a little green begin",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 5.08,
+          "end": 7.68,
+          "flags": []
+        },
+        {
+          "text": "Open up the window wide",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 9.72,
+          "end": 11.82,
+          "flags": []
+        },
+        {
+          "text": "Let the morning come inside",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 11.96,
+          "end": 13.94,
+          "flags": []
+        },
+        {
+          "text": "A leaf unfolds, a new day starts",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 14.24,
+          "end": 17.86,
+          "flags": []
+        },
+        {
+          "text": "Simple things can fill our hearts",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 18.76,
+          "end": 20.82,
+          "flags": []
+        },
+        {
+          "text": "Clean and careful, start to end",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 21.0,
+          "end": 23.2,
+          "flags": []
+        },
+        {
+          "text": "Made with care we'd give a friend",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 23.44,
+          "end": 26.96,
+          "flags": []
+        },
+        {
+          "text": "Every step deserves our best",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 27.86,
+          "end": 32.06,
+          "flags": []
+        },
+        {
+          "text": "Taste can tell you all the rest",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 32.52,
+          "end": 36.14,
+          "flags": []
+        },
+        {
+          "text": "A little joy, a little care",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 36.22,
+          "end": 38.44,
+          "flags": []
+        },
+        {
+          "text": "There's something good for us to share",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 38.64,
+          "end": 41.36,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a little more green",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 41.66,
+          "end": 43.7,
+          "flags": []
+        },
+        {
+          "text": "A little more love in our daily routine",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 43.86,
+          "end": 45.88,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, bright on the plate",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 46.12,
+          "end": 48.08,
+          "flags": []
+        },
+        {
+          "text": "Come for the flavor, you're welcome to stay",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 48.36,
+          "end": 50.5,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, wherever we go",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 50.68,
+          "end": 52.98,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 53.32,
+          "end": 55.68,
+          "flags": []
+        },
+        {
+          "text": "You don't need to chase the sun",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 57.12,
+          "end": 61.96,
+          "flags": []
+        },
+        {
+          "text": "There's a little here for everyone",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 62.32,
+          "end": 64.14,
+          "flags": []
+        },
+        {
+          "text": "Pass a plate from hand to hand",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 64.66,
+          "end": 68.42,
+          "flags": []
+        },
+        {
+          "text": "Keep some kindness for the land",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 68.92,
+          "end": 71.24,
+          "flags": []
+        },
+        {
+          "text": "Trees that shade us, seas that shine",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 71.24,
+          "end": 73.42,
+          "flags": []
+        },
+        {
+          "text": "Not just yours and not just mine",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 73.64,
+          "end": 77.42,
+          "flags": []
+        },
+        {
+          "text": "Let the choices that we make",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 78.3,
+          "end": 82.04,
+          "flags": []
+        },
+        {
+          "text": "Hold some care for nature's sake",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 82.84,
+          "end": 86.32,
+          "flags": []
+        },
+        {
+          "text": "A little joy, a little care",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 86.7,
+          "end": 88.72,
+          "flags": []
+        },
+        {
+          "text": "There's something good for us to share",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 88.96,
+          "end": 91.62,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a little more green",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 91.92,
+          "end": 93.94,
+          "flags": []
+        },
+        {
+          "text": "A little more love in our daily routine",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 94.12,
+          "end": 96.2,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, bright on the plate",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 96.62,
+          "end": 98.34,
+          "flags": []
+        },
+        {
+          "text": "Come for the flavor, you're welcome to stay",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 98.66,
+          "end": 100.8,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, wherever we go",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 100.98,
+          "end": 103.2,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 103.62,
+          "end": 106.22,
+          "flags": []
+        },
+        {
+          "text": "No need to change it all at once",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 107.48,
+          "end": 122.44,
+          "flags": []
+        },
+        {
+          "text": "A greener plate can be enough",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 124.54,
+          "end": 126.68,
+          "flags": []
+        },
+        {
+          "text": "To start a thoughtful way of living",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 128.78,
+          "end": 131.5,
+          "flags": []
+        },
+        {
+          "text": "More aware of what we're giving",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 133.48,
+          "end": 136.16,
+          "flags": []
+        },
+        {
+          "text": "Let the future have its place",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 136.92,
+          "end": 139.94,
+          "flags": []
+        },
+        {
+          "text": "In the little things we make",
+          "section": "Bridge",
+          "sectionIndex": 9,
+          "start": 141.64,
+          "end": 146.1,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a little more green",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 146.58,
+          "end": 148.82,
+          "flags": []
+        },
+        {
+          "text": "A little more love in our daily routine",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 149.1,
+          "end": 151.08,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, bright on the plate",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 151.26,
+          "end": 153.22,
+          "flags": []
+        },
+        {
+          "text": "Come for the flavor, you're welcome to stay",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 153.56,
+          "end": 155.66,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, wherever we go",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 155.94,
+          "end": 158.08,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Chorus",
+          "sectionIndex": 10,
+          "start": 158.82,
+          "end": 161.08,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the good days flow",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 163.66,
+          "end": 168.16,
+          "flags": []
+        },
+        {
+          "text": "Leave room for tomorrow to grow",
+          "section": "Outro",
+          "sectionIndex": 11,
+          "start": 169.94,
+          "end": 172.28,
+          "flags": []
+        }
+      ],
+      "timedLines": 48,
+      "alignedFrom": "chatgpt_3b.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_4a": {
+      "id": "chatgpt_4a",
+      "status": "needs-review",
+      "lyricsHash": "f6f68c51950565dda6fef354bac10e7ad3f40eebced1cbc1168986c131bcf4fe",
+      "duration": 213.24,
+      "warnings": [
+        "Line 6: many zero-length words",
+        "Line 13: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "A light comes on",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 1.0,
+          "end": 12.0,
+          "flags": []
+        },
+        {
+          "text": "A new day starts",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 15.12,
+          "end": 17.38,
+          "flags": []
+        },
+        {
+          "text": "Clean hands ready, aprons on",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.04,
+          "end": 25.06,
+          "flags": []
+        },
+        {
+          "text": "Working with the early dawn",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 25.42,
+          "end": 27.44,
+          "flags": []
+        },
+        {
+          "text": "Every surface clean and clear",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 27.96,
+          "end": 29.98,
+          "flags": []
+        },
+        {
+          "text": "Every step considered here",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 31.0,
+          "end": 33.02,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Care is more than what we say",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 33.22,
+          "end": 35.52,
+          "flags": []
+        },
+        {
+          "text": "It's the work we do each day",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 36.16,
+          "end": 38.38,
+          "flags": []
+        },
+        {
+          "text": "Quality in small details",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 38.68,
+          "end": 40.96,
+          "flags": []
+        },
+        {
+          "text": "The quiet work behind each meal",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 41.24,
+          "end": 43.98,
+          "flags": []
+        },
+        {
+          "text": "Before a plate is passed to you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 45.8,
+          "end": 50.54,
+          "flags": []
+        },
+        {
+          "text": "Our care is in the things we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 51.02,
+          "end": 56.48,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a place at the table",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 59.9,
+          "end": 61.92,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 62.3,
+          "end": 64.84,
+          "flags": []
+        },
+        {
+          "text": "Pride in every small beginning",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 65.06,
+          "end": 67.1,
+          "flags": []
+        },
+        {
+          "text": "Love in everything we share",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 67.76,
+          "end": 70.12,
+          "flags": []
+        },
+        {
+          "text": "For the ones we hold beside us",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 70.84,
+          "end": 73.3,
+          "flags": []
+        },
+        {
+          "text": "For the world that holds us all",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 73.58,
+          "end": 77.24,
+          "flags": []
+        },
+        {
+          "text": "Beyond the light of this kitchen",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 79.76,
+          "end": 83.58,
+          "flags": []
+        },
+        {
+          "text": "Beyond the roads that lead us home",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 83.86,
+          "end": 86.24,
+          "flags": []
+        },
+        {
+          "text": "There are rivers worth protecting",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 86.86,
+          "end": 89.02,
+          "flags": []
+        },
+        {
+          "text": "There are seeds still to be sown",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 89.48,
+          "end": 91.52,
+          "flags": []
+        },
+        {
+          "text": "More plants upon the table",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 92.22,
+          "end": 94.3,
+          "flags": []
+        },
+        {
+          "text": "More thought in what we do",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 94.84,
+          "end": 96.8,
+          "flags": []
+        },
+        {
+          "text": "Leave the living world its beauty",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 97.3,
+          "end": 99.64,
+          "flags": []
+        },
+        {
+          "text": "For the ones who'll follow you",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 100.32,
+          "end": 102.9,
+          "flags": []
+        },
+        {
+          "text": "Before a plate is passed to you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 104.34,
+          "end": 109.24,
+          "flags": []
+        },
+        {
+          "text": "Our care is in the things we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 109.64,
+          "end": 114.98,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a place at the table",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 117.62,
+          "end": 120.48,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 120.84,
+          "end": 123.44,
+          "flags": []
+        },
+        {
+          "text": "Pride in every small beginning",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 123.64,
+          "end": 125.7,
+          "flags": []
+        },
+        {
+          "text": "Love in everything we share",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 126.4,
+          "end": 128.76,
+          "flags": []
+        },
+        {
+          "text": "For the ones we hold beside us",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 129.46,
+          "end": 131.92,
+          "flags": []
+        },
+        {
+          "text": "For the world that holds us all",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 132.22,
+          "end": 135.58,
+          "flags": []
+        },
+        {
+          "text": "We don't have to hold the whole world",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 138.02,
+          "end": 142.82,
+          "flags": []
+        },
+        {
+          "text": "In a single pair of hands",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 142.86,
+          "end": 144.96,
+          "flags": []
+        },
+        {
+          "text": "But we each can bring some kindness",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 145.6,
+          "end": 147.76,
+          "flags": []
+        },
+        {
+          "text": "To the place where we now stand",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 148.12,
+          "end": 150.78,
+          "flags": []
+        },
+        {
+          "text": "Let it start around the table",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 151.64,
+          "end": 154.44,
+          "flags": []
+        },
+        {
+          "text": "Let it reach beyond these walls",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 154.94,
+          "end": 159.54,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a place at the table",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 160.9,
+          "end": 163.12,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 163.68,
+          "end": 166.14,
+          "flags": []
+        },
+        {
+          "text": "Pride in every small beginning",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 166.28,
+          "end": 168.42,
+          "flags": []
+        },
+        {
+          "text": "Love in everything we share",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 168.96,
+          "end": 171.34,
+          "flags": []
+        },
+        {
+          "text": "For the ones we hold beside us",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 172.0,
+          "end": 174.58,
+          "flags": []
+        },
+        {
+          "text": "For the world that holds us all",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 175.0,
+          "end": 178.9,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, made with care",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 180.66,
+          "end": 188.18,
+          "flags": []
+        },
+        {
+          "text": "For the world we share",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 190.98,
+          "end": 197.84,
+          "flags": []
+        }
+      ],
+      "timedLines": 48,
+      "alignedFrom": "chatgpt_4a.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_4b": {
+      "id": "chatgpt_4b",
+      "status": "needs-review",
+      "lyricsHash": "f6f68c51950565dda6fef354bac10e7ad3f40eebced1cbc1168986c131bcf4fe",
+      "duration": 221.8,
+      "warnings": [
+        "Line 13: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "A light comes on",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.58,
+          "end": 14.98,
+          "flags": []
+        },
+        {
+          "text": "A new day starts",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 15.66,
+          "end": 17.84,
+          "flags": []
+        },
+        {
+          "text": "Clean hands ready, aprons on",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 19.82,
+          "end": 22.2,
+          "flags": []
+        },
+        {
+          "text": "Working with the early dawn",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.94,
+          "end": 24.82,
+          "flags": []
+        },
+        {
+          "text": "Every surface clean and clear",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 26.22,
+          "end": 28.62,
+          "flags": []
+        },
+        {
+          "text": "Every step considered here",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 29.54,
+          "end": 32.32,
+          "flags": []
+        },
+        {
+          "text": "Care is more than what we say",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 33.16,
+          "end": 35.3,
+          "flags": []
+        },
+        {
+          "text": "It's the work we do each day",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 36.32,
+          "end": 38.3,
+          "flags": []
+        },
+        {
+          "text": "Quality in small details",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 39.58,
+          "end": 42.08,
+          "flags": []
+        },
+        {
+          "text": "The quiet work behind each meal",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 42.82,
+          "end": 45.64,
+          "flags": []
+        },
+        {
+          "text": "Before a plate is passed to you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 46.46,
+          "end": 50.58,
+          "flags": []
+        },
+        {
+          "text": "Our care is in the things we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 51.84,
+          "end": 54.82,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a place at the table",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 56.14,
+          "end": 60.94,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 62.8,
+          "end": 67.66,
+          "flags": []
+        },
+        {
+          "text": "Pride in every small beginning",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 68.7,
+          "end": 70.94,
+          "flags": []
+        },
+        {
+          "text": "Love in everything we share",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 72.12,
+          "end": 74.82,
+          "flags": []
+        },
+        {
+          "text": "For the ones we hold beside us",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 76.22,
+          "end": 81.28,
+          "flags": []
+        },
+        {
+          "text": "For the world that holds us all",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 81.52,
+          "end": 84.54,
+          "flags": []
+        },
+        {
+          "text": "Beyond the light of this kitchen",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 86.02,
+          "end": 88.4,
+          "flags": []
+        },
+        {
+          "text": "Beyond the roads that lead us home",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 89.82,
+          "end": 91.98,
+          "flags": []
+        },
+        {
+          "text": "There are rivers worth protecting",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 92.98,
+          "end": 95.66,
+          "flags": []
+        },
+        {
+          "text": "There are seeds still to be sown",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 96.34,
+          "end": 98.9,
+          "flags": []
+        },
+        {
+          "text": "More plants upon the table",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 99.74,
+          "end": 102.38,
+          "flags": []
+        },
+        {
+          "text": "More thought in what we do",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 103.06,
+          "end": 105.3,
+          "flags": []
+        },
+        {
+          "text": "Leave the living world its beauty",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 106.14,
+          "end": 109.0,
+          "flags": []
+        },
+        {
+          "text": "For the ones who'll follow you",
+          "section": "Verse 2",
+          "sectionIndex": 5,
+          "start": 109.42,
+          "end": 112.58,
+          "flags": []
+        },
+        {
+          "text": "Before a plate is passed to you",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 113.02,
+          "end": 117.28,
+          "flags": []
+        },
+        {
+          "text": "Our care is in the things we do",
+          "section": "Pre-Chorus",
+          "sectionIndex": 6,
+          "start": 118.7,
+          "end": 121.76,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a place at the table",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 122.76,
+          "end": 127.72,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 129.34,
+          "end": 134.4,
+          "flags": []
+        },
+        {
+          "text": "Pride in every small beginning",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 135.24,
+          "end": 137.52,
+          "flags": []
+        },
+        {
+          "text": "Love in everything we share",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 138.7,
+          "end": 141.32,
+          "flags": []
+        },
+        {
+          "text": "For the ones we hold beside us",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 142.76,
+          "end": 147.88,
+          "flags": []
+        },
+        {
+          "text": "For the world that holds us all",
+          "section": "Chorus",
+          "sectionIndex": 7,
+          "start": 148.38,
+          "end": 150.76,
+          "flags": []
+        },
+        {
+          "text": "We don't have to hold the whole world",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 151.12,
+          "end": 153.76,
+          "flags": []
+        },
+        {
+          "text": "In a single pair of hands",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 154.38,
+          "end": 157.42,
+          "flags": []
+        },
+        {
+          "text": "But we each can bring some kindness",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 157.82,
+          "end": 160.04,
+          "flags": []
+        },
+        {
+          "text": "To the place where we now stand",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 160.98,
+          "end": 163.74,
+          "flags": []
+        },
+        {
+          "text": "Let it start around the table",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 164.74,
+          "end": 167.5,
+          "flags": []
+        },
+        {
+          "text": "Let it reach beyond these walls",
+          "section": "Bridge",
+          "sectionIndex": 8,
+          "start": 168.2,
+          "end": 171.98,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, a place at the table",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 174.5,
+          "end": 180.98,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, made with care",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 182.82,
+          "end": 187.52,
+          "flags": []
+        },
+        {
+          "text": "Pride in every small beginning",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 188.66,
+          "end": 190.82,
+          "flags": []
+        },
+        {
+          "text": "Love in everything we share",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 191.96,
+          "end": 194.62,
+          "flags": []
+        },
+        {
+          "text": "For the ones we hold beside us",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 196.14,
+          "end": 201.16,
+          "flags": []
+        },
+        {
+          "text": "For the world that holds us all",
+          "section": "Chorus",
+          "sectionIndex": 9,
+          "start": 201.34,
+          "end": 204.48,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, made with care",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 205.94,
+          "end": 211.64,
+          "flags": []
+        },
+        {
+          "text": "For the world we share",
+          "section": "Outro",
+          "sectionIndex": 10,
+          "start": 214.02,
+          "end": 217.74,
+          "flags": []
+        }
+      ],
+      "timedLines": 48,
+      "alignedFrom": "chatgpt_4b.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_5a": {
+      "id": "chatgpt_5a",
+      "status": "needs-review",
+      "lyricsHash": "f7bfe75430072934a6056404b3d1a79d2fdaf9235026a179efc6b7c4a0d9e5f3",
+      "duration": 237.92,
+      "warnings": [
+        "Line 1: low model word probability (diagnostic, not calibrated confidence)"
+      ],
+      "lines": [
+        {
+          "text": "Start here",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 0.84,
+          "end": 5.82,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "With a little green",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 7.44,
+          "end": 10.48,
+          "flags": []
+        },
+        {
+          "text": "We don't have to wait for someday",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 13.1,
+          "end": 20.08,
+          "flags": []
+        },
+        {
+          "text": "We can bring it into view",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 20.66,
+          "end": 22.28,
+          "flags": []
+        },
+        {
+          "text": "In the things we put together",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.82,
+          "end": 24.4,
+          "flags": []
+        },
+        {
+          "text": "In the daily things we do",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 24.9,
+          "end": 26.62,
+          "flags": []
+        },
+        {
+          "text": "Clean hands, care in every detail",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 26.92,
+          "end": 28.82,
+          "flags": []
+        },
+        {
+          "text": "Pride in every step we take",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 29.14,
+          "end": 30.92,
+          "flags": []
+        },
+        {
+          "text": "Goodness rooted in the plants we choose",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 31.4,
+          "end": 33.5,
+          "flags": []
+        },
+        {
+          "text": "Something thoughtful on your plate",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 33.76,
+          "end": 35.78,
+          "flags": []
+        },
+        {
+          "text": "Let the ordinary be",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 36.76,
+          "end": 39.8,
+          "flags": []
+        },
+        {
+          "text": "The beginning of a greener dream",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 40.96,
+          "end": 44.24,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, tomorrow starts here",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 44.66,
+          "end": 47.92,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, a little more care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 48.66,
+          "end": 52.14,
+          "flags": []
+        },
+        {
+          "text": "Pride in the making, joy all around",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 52.68,
+          "end": 54.76,
+          "flags": []
+        },
+        {
+          "text": "Love for the earth that keeps turning round",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 54.94,
+          "end": 57.1,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the future shine",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 57.5,
+          "end": 61.92,
+          "flags": []
+        },
+        {
+          "text": "One thoughtful choice, one day at a time",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 64.0,
+          "end": 67.38,
+          "flags": []
+        },
+        {
+          "text": "One day at a time",
+          "section": "Post-Chorus",
+          "sectionIndex": 5,
+          "start": 69.0,
+          "end": 70.72,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, Sweet Times",
+          "section": "Post-Chorus",
+          "sectionIndex": 5,
+          "start": 74.14,
+          "end": 79.44,
+          "flags": []
+        },
+        {
+          "text": "There's a forest past the skyline",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 81.6,
+          "end": 89.82,
+          "flags": []
+        },
+        {
+          "text": "There's a river past the road",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 90.58,
+          "end": 92.3,
+          "flags": []
+        },
+        {
+          "text": "Every life a part of something",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 92.66,
+          "end": 94.28,
+          "flags": []
+        },
+        {
+          "text": "Bigger than the things we own",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 94.86,
+          "end": 96.46,
+          "flags": []
+        },
+        {
+          "text": "Put more plants into the picture",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 96.74,
+          "end": 98.62,
+          "flags": []
+        },
+        {
+          "text": "Keep the living world in mind",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 98.86,
+          "end": 100.74,
+          "flags": []
+        },
+        {
+          "text": "Let the care we show together",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 101.06,
+          "end": 102.94,
+          "flags": []
+        },
+        {
+          "text": "Be the mark we leave behind",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 103.48,
+          "end": 105.72,
+          "flags": []
+        },
+        {
+          "text": "Let the ordinary be",
+          "section": "Pre-Chorus",
+          "sectionIndex": 7,
+          "start": 106.5,
+          "end": 109.76,
+          "flags": []
+        },
+        {
+          "text": "The beginning of a greener dream",
+          "section": "Pre-Chorus",
+          "sectionIndex": 7,
+          "start": 110.8,
+          "end": 113.98,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, tomorrow starts here",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 114.38,
+          "end": 117.72,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, a little more care",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 118.48,
+          "end": 122.06,
+          "flags": []
+        },
+        {
+          "text": "Pride in the making, joy all around",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 122.42,
+          "end": 124.56,
+          "flags": []
+        },
+        {
+          "text": "Love for the earth that keeps turning round",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 124.8,
+          "end": 126.98,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the future shine",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 127.52,
+          "end": 131.62,
+          "flags": []
+        },
+        {
+          "text": "One thoughtful choice, one day at a time",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 133.46,
+          "end": 137.08,
+          "flags": []
+        },
+        {
+          "text": "One day at a time",
+          "section": "Post-Chorus",
+          "sectionIndex": 9,
+          "start": 138.72,
+          "end": 140.38,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, Sweet Times",
+          "section": "Post-Chorus",
+          "sectionIndex": 9,
+          "start": 142.12,
+          "end": 149.04,
+          "flags": []
+        },
+        {
+          "text": "Take the care beyond the kitchen",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 157.28,
+          "end": 159.72,
+          "flags": []
+        },
+        {
+          "text": "Past the table, past the door",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 160.06,
+          "end": 161.74,
+          "flags": []
+        },
+        {
+          "text": "Make a little room for nature",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 162.22,
+          "end": 164.04,
+          "flags": []
+        },
+        {
+          "text": "That's a future worth working for",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 164.32,
+          "end": 166.06,
+          "flags": []
+        },
+        {
+          "text": "Not just something we believe",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 166.3,
+          "end": 171.24,
+          "flags": []
+        },
+        {
+          "text": "But the care in how we live",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 173.24,
+          "end": 174.88,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, tomorrow starts here",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 175.36,
+          "end": 179.08,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, a little more care",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 179.96,
+          "end": 183.12,
+          "flags": []
+        },
+        {
+          "text": "Pride in the making, joy all around",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 183.64,
+          "end": 185.66,
+          "flags": []
+        },
+        {
+          "text": "Love for the earth that keeps turning round",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 185.86,
+          "end": 188.12,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the future shine",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 188.56,
+          "end": 192.8,
+          "flags": []
+        },
+        {
+          "text": "One thoughtful choice, one day at a time",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 194.46,
+          "end": 198.28,
+          "flags": []
+        },
+        {
+          "text": "Tomorrow starts here",
+          "section": "Outro",
+          "sectionIndex": 13,
+          "start": 199.82,
+          "end": 202.42,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times",
+          "section": "Outro",
+          "sectionIndex": 13,
+          "start": 204.44,
+          "end": 206.68,
+          "flags": []
+        }
+      ],
+      "timedLines": 52,
+      "alignedFrom": "chatgpt_5a.opus",
+      "model": "medium.en"
+    },
+    "chatgpt_5b": {
+      "id": "chatgpt_5b",
+      "status": "needs-review",
+      "lyricsHash": "f7bfe75430072934a6056404b3d1a79d2fdaf9235026a179efc6b7c4a0d9e5f3",
+      "duration": 240.92,
+      "warnings": [
+        "Line 1: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 20: invalid/zero-length timing; left untimed",
+        "Line 38: invalid/zero-length timing; left untimed",
+        "Line 52: invalid/zero-length timing; left untimed"
+      ],
+      "lines": [
+        {
+          "text": "Start here",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 1.3,
+          "end": 6.76,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "With a little green",
+          "section": "Intro",
+          "sectionIndex": 1,
+          "start": 8.1,
+          "end": 9.5,
+          "flags": []
+        },
+        {
+          "text": "We don't have to wait for someday",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 15.38,
+          "end": 20.26,
+          "flags": []
+        },
+        {
+          "text": "We can bring it into view",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 20.84,
+          "end": 22.22,
+          "flags": []
+        },
+        {
+          "text": "In the things we put together",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 22.88,
+          "end": 24.28,
+          "flags": []
+        },
+        {
+          "text": "In the daily things we do",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 24.96,
+          "end": 26.2,
+          "flags": []
+        },
+        {
+          "text": "Clean hands, care in every detail",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 26.82,
+          "end": 28.62,
+          "flags": []
+        },
+        {
+          "text": "Pride in every step we take",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 29.16,
+          "end": 30.6,
+          "flags": []
+        },
+        {
+          "text": "Goodness rooted in the plants we choose",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 31.1,
+          "end": 32.56,
+          "flags": []
+        },
+        {
+          "text": "Something thoughtful on your plate",
+          "section": "Verse 1",
+          "sectionIndex": 2,
+          "start": 32.88,
+          "end": 34.64,
+          "flags": []
+        },
+        {
+          "text": "Let the ordinary be",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 35.92,
+          "end": 38.98,
+          "flags": []
+        },
+        {
+          "text": "The beginning of a greener dream",
+          "section": "Pre-Chorus",
+          "sectionIndex": 3,
+          "start": 40.04,
+          "end": 42.92,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, tomorrow starts here",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 43.26,
+          "end": 46.48,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, a little more care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 47.18,
+          "end": 50.44,
+          "flags": []
+        },
+        {
+          "text": "Pride in the making, joy all around",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 50.84,
+          "end": 54.64,
+          "flags": []
+        },
+        {
+          "text": "Love for the earth that keeps turning round",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 55.04,
+          "end": 59.28,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the future shine",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 60.42,
+          "end": 63.8,
+          "flags": []
+        },
+        {
+          "text": "One thoughtful choice, one day at a time",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 65.14,
+          "end": 72.78,
+          "flags": []
+        },
+        {
+          "text": "One day at a time",
+          "section": "Post-Chorus",
+          "sectionIndex": 5,
+          "start": 74.76,
+          "end": 76.44,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, Sweet Times",
+          "section": "Post-Chorus",
+          "sectionIndex": 5,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "There's a forest past the skyline",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 89.76,
+          "end": 95.34,
+          "flags": []
+        },
+        {
+          "text": "There's a river past the road",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 96.08,
+          "end": 97.3,
+          "flags": []
+        },
+        {
+          "text": "Every life a part of something",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 98.0,
+          "end": 99.5,
+          "flags": []
+        },
+        {
+          "text": "Bigger than the things we own",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 100.18,
+          "end": 101.46,
+          "flags": []
+        },
+        {
+          "text": "Put more plants into the picture",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 101.94,
+          "end": 103.68,
+          "flags": []
+        },
+        {
+          "text": "Keep the living world in mind",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 104.22,
+          "end": 105.74,
+          "flags": []
+        },
+        {
+          "text": "Let the care we show together",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 106.08,
+          "end": 107.76,
+          "flags": []
+        },
+        {
+          "text": "Be the mark we leave behind",
+          "section": "Verse 2",
+          "sectionIndex": 6,
+          "start": 108.08,
+          "end": 109.88,
+          "flags": []
+        },
+        {
+          "text": "Let the ordinary be",
+          "section": "Pre-Chorus",
+          "sectionIndex": 7,
+          "start": 111.18,
+          "end": 114.14,
+          "flags": []
+        },
+        {
+          "text": "The beginning of a greener dream",
+          "section": "Pre-Chorus",
+          "sectionIndex": 7,
+          "start": 115.18,
+          "end": 118.06,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, tomorrow starts here",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 118.48,
+          "end": 121.7,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, a little more care",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 122.24,
+          "end": 125.54,
+          "flags": []
+        },
+        {
+          "text": "Pride in the making, joy all around",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 125.92,
+          "end": 129.82,
+          "flags": []
+        },
+        {
+          "text": "Love for the earth that keeps turning round",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 130.18,
+          "end": 134.06,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the future shine",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 134.82,
+          "end": 138.94,
+          "flags": []
+        },
+        {
+          "text": "One thoughtful choice, one day at a time",
+          "section": "Chorus",
+          "sectionIndex": 8,
+          "start": 140.72,
+          "end": 148.12,
+          "flags": []
+        },
+        {
+          "text": "One day at a time",
+          "section": "Post-Chorus",
+          "sectionIndex": 9,
+          "start": 150.02,
+          "end": 167.84,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, Sweet Times",
+          "section": "Post-Chorus",
+          "sectionIndex": 9,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Take the care beyond the kitchen",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 167.84,
+          "end": 169.42,
+          "flags": []
+        },
+        {
+          "text": "Past the table, past the door",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 169.8,
+          "end": 171.22,
+          "flags": []
+        },
+        {
+          "text": "Make a little room for nature",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 171.86,
+          "end": 173.52,
+          "flags": []
+        },
+        {
+          "text": "That's a future worth working for",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 173.52,
+          "end": 176.58,
+          "flags": []
+        },
+        {
+          "text": "Not just something we believe",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 177.86,
+          "end": 180.8,
+          "flags": []
+        },
+        {
+          "text": "But the care in how we live",
+          "section": "Bridge",
+          "sectionIndex": 11,
+          "start": 182.14,
+          "end": 186.24,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, tomorrow starts here",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 189.0,
+          "end": 192.58,
+          "flags": []
+        },
+        {
+          "text": "Plant-based goodness, a little more care",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 193.18,
+          "end": 196.6,
+          "flags": []
+        },
+        {
+          "text": "Pride in the making, joy all around",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 197.06,
+          "end": 200.72,
+          "flags": []
+        },
+        {
+          "text": "Love for the earth that keeps turning round",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 201.34,
+          "end": 205.54,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times, let the future shine",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 205.98,
+          "end": 209.8,
+          "flags": []
+        },
+        {
+          "text": "One thoughtful choice, one day at a time",
+          "section": "Chorus",
+          "sectionIndex": 12,
+          "start": 212.18,
+          "end": 219.28,
+          "flags": []
+        },
+        {
+          "text": "Tomorrow starts here",
+          "section": "Outro",
+          "sectionIndex": 13,
+          "start": 220.98,
+          "end": 222.64,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times",
+          "section": "Outro",
+          "sectionIndex": 13,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        }
+      ],
+      "timedLines": 49,
+      "alignedFrom": "chatgpt_5b.opus",
+      "model": "medium.en"
+    },
+    "gemini_1a": {
+      "id": "gemini_1a",
+      "status": "needs-review",
+      "lyricsHash": "c9a829e43ee1943f2c77f8fa6abd89b8fb326556847fadd5312874386d103451",
+      "duration": 174.0,
+      "warnings": [
+        "Line 28: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Sunrise on the fields, green leaves catching light",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 0.7,
+          "end": 14.08,
+          "flags": []
+        },
+        {
+          "text": "A brand new day is breaking, everything feels right",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 14.5,
+          "end": 18.74,
+          "flags": []
+        },
+        {
+          "text": "We're mixing up the magic, working with our hands",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 19.28,
+          "end": 23.7,
+          "flags": []
+        },
+        {
+          "text": "Bringing wholesome goodness across the fertile lands",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 24.32,
+          "end": 28.62,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times are here, growing from the ground",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 28.94,
+          "end": 33.28,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature, the best that can be found",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 33.84,
+          "end": 38.04,
+          "flags": []
+        },
+        {
+          "text": "Pure and simple living, healthy and so clean",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 38.5,
+          "end": 42.68,
+          "flags": []
+        },
+        {
+          "text": "We're building something better than you have ever seen",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 43.1,
+          "end": 47.3,
+          "flags": []
+        },
+        {
+          "text": "Yeah, Sweet Times are here, let the goodness grow!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 47.94,
+          "end": 57.58,
+          "flags": []
+        },
+        {
+          "text": "Care in every step, keeping things so pure",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 57.8,
+          "end": 61.98,
+          "flags": []
+        },
+        {
+          "text": "Quality you trust, of that you can be sure",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 62.94,
+          "end": 66.8,
+          "flags": []
+        },
+        {
+          "text": "From the earth it comes, to fuel the lives we lead",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 67.62,
+          "end": 71.58,
+          "flags": []
+        },
+        {
+          "text": "Planting seeds of hope, giving the world what it needs",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 72.34,
+          "end": 76.6,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times are here, growing from the ground",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 77.04,
+          "end": 81.24,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature, the best that can be found",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 81.78,
+          "end": 85.96,
+          "flags": []
+        },
+        {
+          "text": "Pure and simple living, healthy and so clean",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 86.58,
+          "end": 90.68,
+          "flags": []
+        },
+        {
+          "text": "We're building something better than you have ever seen",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 91.34,
+          "end": 95.32,
+          "flags": []
+        },
+        {
+          "text": "Yeah, Sweet Times are here, let the goodness grow!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 95.88,
+          "end": 101.76,
+          "flags": []
+        },
+        {
+          "text": "Working with the planet, a gentle, guiding hand",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 101.8,
+          "end": 105.4,
+          "flags": []
+        },
+        {
+          "text": "Leaving a lighter footprint, protecting this green land",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 105.88,
+          "end": 110.14,
+          "flags": []
+        },
+        {
+          "text": "Every choice we make, a step towards the light",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 110.72,
+          "end": 114.84,
+          "flags": []
+        },
+        {
+          "text": "Nourishing the future, making everything so bright",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 115.54,
+          "end": 122.4,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times are here, growing from the ground",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 123.06,
+          "end": 126.84,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature, the best that can be found",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 127.24,
+          "end": 131.64,
+          "flags": []
+        },
+        {
+          "text": "Pure and simple living, healthy and so clean",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 132.2,
+          "end": 136.24,
+          "flags": []
+        },
+        {
+          "text": "We're building something better than you have ever seen",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 136.74,
+          "end": 140.9,
+          "flags": []
+        },
+        {
+          "text": "Yeah, Sweet Times are here, let the goodness grow!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 141.66,
+          "end": 147.34,
+          "flags": []
+        },
+        {
+          "text": "Growing from the ground...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 150.82,
+          "end": 155.88,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "The finest taste of nature...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 155.88,
+          "end": 165.14,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 165.36,
+          "end": 168.86,
+          "flags": []
+        }
+      ],
+      "timedLines": 30,
+      "alignedFrom": "gemini_1a.opus",
+      "model": "medium.en"
+    },
+    "gemini_1b": {
+      "id": "gemini_1b",
+      "status": "needs-review",
+      "lyricsHash": "c9a829e43ee1943f2c77f8fa6abd89b8fb326556847fadd5312874386d103451",
+      "duration": 211.72,
+      "warnings": [
+        "Line 30: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 30: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Sunrise on the fields, green leaves catching light",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 0.62,
+          "end": 13.88,
+          "flags": []
+        },
+        {
+          "text": "A brand new day is breaking, everything feels right",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 13.94,
+          "end": 21.28,
+          "flags": []
+        },
+        {
+          "text": "We're mixing up the magic, working with our hands",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 22.48,
+          "end": 28.92,
+          "flags": []
+        },
+        {
+          "text": "Bringing wholesome goodness across the fertile lands",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 30.74,
+          "end": 36.88,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times are here, growing from the ground",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 37.88,
+          "end": 43.86,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature, the best that can be found",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 44.92,
+          "end": 51.3,
+          "flags": []
+        },
+        {
+          "text": "Pure and simple living, healthy and so clean",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 52.62,
+          "end": 56.02,
+          "flags": []
+        },
+        {
+          "text": "We're building something better than you have ever seen",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 56.16,
+          "end": 60.54,
+          "flags": []
+        },
+        {
+          "text": "Yeah, Sweet Times are here, let the goodness grow!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 61.3,
+          "end": 69.98,
+          "flags": []
+        },
+        {
+          "text": "Care in every step, keeping things so pure",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 70.04,
+          "end": 77.56,
+          "flags": []
+        },
+        {
+          "text": "Quality you trust, of that you can be sure",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 77.58,
+          "end": 85.02,
+          "flags": []
+        },
+        {
+          "text": "From the earth it comes, to fuel the lives we lead",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 86.16,
+          "end": 92.74,
+          "flags": []
+        },
+        {
+          "text": "Planting seeds of hope, giving the world what it needs",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 94.14,
+          "end": 100.56,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times are here, growing from the ground",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 101.64,
+          "end": 107.56,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature, the best that can be found",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 108.64,
+          "end": 115.0,
+          "flags": []
+        },
+        {
+          "text": "Pure and simple living, healthy and so clean",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 116.32,
+          "end": 119.74,
+          "flags": []
+        },
+        {
+          "text": "We're building something better than you have ever seen",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 119.98,
+          "end": 124.34,
+          "flags": []
+        },
+        {
+          "text": "Yeah, Sweet Times are here, let the goodness grow!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 125.12,
+          "end": 132.08,
+          "flags": []
+        },
+        {
+          "text": "Working with the planet, a gentle, guiding hand",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 132.1,
+          "end": 137.68,
+          "flags": []
+        },
+        {
+          "text": "Leaving a lighter footprint, protecting this green land",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 137.68,
+          "end": 145.8,
+          "flags": []
+        },
+        {
+          "text": "Every choice we make, a step towards the light",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 146.08,
+          "end": 152.52,
+          "flags": []
+        },
+        {
+          "text": "Nourishing the future, making everything so bright",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 152.54,
+          "end": 160.82,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times are here, growing from the ground",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 163.44,
+          "end": 169.44,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature, the best that can be found",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 170.68,
+          "end": 177.06,
+          "flags": []
+        },
+        {
+          "text": "Pure and simple living, healthy and so clean",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 178.3,
+          "end": 181.62,
+          "flags": []
+        },
+        {
+          "text": "We're building something better than you have ever seen",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 181.78,
+          "end": 186.2,
+          "flags": []
+        },
+        {
+          "text": "Yeah, Sweet Times are here, let the goodness grow!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 186.84,
+          "end": 195.9,
+          "flags": []
+        },
+        {
+          "text": "Growing from the ground...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 196.92,
+          "end": 200.44,
+          "flags": []
+        },
+        {
+          "text": "The finest taste of nature...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 200.72,
+          "end": 203.68,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 208.0,
+          "end": 209.84,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        }
+      ],
+      "timedLines": 30,
+      "alignedFrom": "gemini_1b.opus",
+      "model": "medium.en"
+    },
+    "gemini_2a": {
+      "id": "gemini_2a",
+      "status": "auto",
+      "lyricsHash": "9a333513d45c95a414aa1e26b8308a5f7c29312469b1643d70386bb284e1aa53",
+      "duration": 159.64,
+      "warnings": [],
+      "lines": [
+        {
+          "text": "Early morning quiet, the air is crisp and clear",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 0.66,
+          "end": 17.16,
+          "flags": []
+        },
+        {
+          "text": "We take our time with nature, bringing something special here",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 17.98,
+          "end": 22.66,
+          "flags": []
+        },
+        {
+          "text": "Focus on the details, keeping it so clean",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 23.34,
+          "end": 27.84,
+          "flags": []
+        },
+        {
+          "text": "The highest standard rising, if you know just what I mean",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 28.54,
+          "end": 33.24,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, crafted with such care",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 33.76,
+          "end": 38.0,
+          "flags": []
+        },
+        {
+          "text": "Goodness from the harvest, a flavor beyond compare",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 38.6,
+          "end": 43.14,
+          "flags": []
+        },
+        {
+          "text": "We're keeping it pure, honoring the earth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 43.62,
+          "end": 48.66,
+          "flags": []
+        },
+        {
+          "text": "Giving you the quality, showing you its worth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 49.24,
+          "end": 55.76,
+          "flags": []
+        },
+        {
+          "text": "More of what is natural, less of what is not",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 60.94,
+          "end": 65.14,
+          "flags": []
+        },
+        {
+          "text": "Preserving all the beauty in this world we’ve got",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 65.9,
+          "end": 71.16,
+          "flags": []
+        },
+        {
+          "text": "A gentle way of living, a mindful way to eat",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 71.22,
+          "end": 76.02,
+          "flags": []
+        },
+        {
+          "text": "Finding perfect balance, making life complete",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 76.62,
+          "end": 81.26,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, crafted with such care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 81.44,
+          "end": 85.72,
+          "flags": []
+        },
+        {
+          "text": "Goodness from the harvest, a flavor beyond compare",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 85.72,
+          "end": 91.22,
+          "flags": []
+        },
+        {
+          "text": "We're keeping it pure, honoring the earth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 91.66,
+          "end": 96.68,
+          "flags": []
+        },
+        {
+          "text": "Giving you the quality, showing you its worth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 97.3,
+          "end": 103.16,
+          "flags": []
+        },
+        {
+          "text": "Take a breath, feel the groove",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 103.4,
+          "end": 105.74,
+          "flags": []
+        },
+        {
+          "text": "Watch the way the branches move",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 106.14,
+          "end": 108.5,
+          "flags": []
+        },
+        {
+          "text": "Harmony in what we do",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 108.74,
+          "end": 110.6,
+          "flags": []
+        },
+        {
+          "text": "Bringing all the best to you",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 110.78,
+          "end": 113.3,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, crafted with such care",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 113.4,
+          "end": 117.72,
+          "flags": []
+        },
+        {
+          "text": "Goodness from the harvest, a flavor beyond compare",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 118.9,
+          "end": 123.1,
+          "flags": []
+        },
+        {
+          "text": "We're keeping it pure, honoring the earth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 123.66,
+          "end": 128.68,
+          "flags": []
+        },
+        {
+          "text": "Giving you the quality, showing you its worth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 129.26,
+          "end": 135.28,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 138.44,
+          "end": 144.1,
+          "flags": []
+        },
+        {
+          "text": "Crafted with care...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 144.18,
+          "end": 146.9,
+          "flags": []
+        },
+        {
+          "text": "Honoring the earth...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 149.66,
+          "end": 153.48,
+          "flags": []
+        },
+        {
+          "text": "Yeah...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 154.06,
+          "end": 157.28,
+          "flags": []
+        }
+      ],
+      "timedLines": 28,
+      "alignedFrom": "gemini_2a.opus",
+      "model": "medium.en"
+    },
+    "gemini_2b": {
+      "id": "gemini_2b",
+      "status": "auto",
+      "lyricsHash": "9a333513d45c95a414aa1e26b8308a5f7c29312469b1643d70386bb284e1aa53",
+      "duration": 154.76,
+      "warnings": [],
+      "lines": [
+        {
+          "text": "Early morning quiet, the air is crisp and clear",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 1.16,
+          "end": 16.42,
+          "flags": []
+        },
+        {
+          "text": "We take our time with nature, bringing something special here",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 16.82,
+          "end": 22.28,
+          "flags": []
+        },
+        {
+          "text": "Focus on the details, keeping it so clean",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 22.86,
+          "end": 27.2,
+          "flags": []
+        },
+        {
+          "text": "The highest standard rising, if you know just what I mean",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 27.46,
+          "end": 32.96,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, crafted with such care",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 33.26,
+          "end": 37.6,
+          "flags": []
+        },
+        {
+          "text": "Goodness from the harvest, a flavor beyond compare",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 38.5,
+          "end": 43.5,
+          "flags": []
+        },
+        {
+          "text": "We're keeping it pure, honoring the earth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 43.72,
+          "end": 46.18,
+          "flags": []
+        },
+        {
+          "text": "Giving you the quality, showing you its worth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 46.46,
+          "end": 50.24,
+          "flags": []
+        },
+        {
+          "text": "More of what is natural, less of what is not",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 53.48,
+          "end": 59.48,
+          "flags": []
+        },
+        {
+          "text": "Preserving all the beauty in this world we’ve got",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 60.56,
+          "end": 65.36,
+          "flags": []
+        },
+        {
+          "text": "A gentle way of living, a mindful way to eat",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 65.74,
+          "end": 70.68,
+          "flags": []
+        },
+        {
+          "text": "Finding perfect balance, making life complete",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 71.06,
+          "end": 75.92,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, crafted with such care",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 76.28,
+          "end": 80.52,
+          "flags": []
+        },
+        {
+          "text": "Goodness from the harvest, a flavor beyond compare",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 80.82,
+          "end": 86.52,
+          "flags": []
+        },
+        {
+          "text": "We're keeping it pure, honoring the earth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 86.62,
+          "end": 89.2,
+          "flags": []
+        },
+        {
+          "text": "Giving you the quality, showing you its worth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 89.86,
+          "end": 93.38,
+          "flags": []
+        },
+        {
+          "text": "Take a breath, feel the groove",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 98.04,
+          "end": 100.26,
+          "flags": []
+        },
+        {
+          "text": "Watch the way the branches move",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 100.72,
+          "end": 103.02,
+          "flags": []
+        },
+        {
+          "text": "Harmony in what we do",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 103.4,
+          "end": 105.56,
+          "flags": []
+        },
+        {
+          "text": "Bringing all the best to you",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 106.06,
+          "end": 108.36,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, crafted with such care",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 108.46,
+          "end": 112.82,
+          "flags": []
+        },
+        {
+          "text": "Goodness from the harvest, a flavor beyond compare",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 113.12,
+          "end": 118.78,
+          "flags": []
+        },
+        {
+          "text": "We're keeping it pure, honoring the earth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 119.14,
+          "end": 121.56,
+          "flags": []
+        },
+        {
+          "text": "Giving you the quality, showing you its worth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 121.8,
+          "end": 125.74,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 128.04,
+          "end": 134.54,
+          "flags": []
+        },
+        {
+          "text": "Crafted with care...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 134.6,
+          "end": 139.86,
+          "flags": []
+        },
+        {
+          "text": "Honoring the earth...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 140.36,
+          "end": 144.5,
+          "flags": []
+        },
+        {
+          "text": "Yeah...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 145.8,
+          "end": 147.7,
+          "flags": []
+        }
+      ],
+      "timedLines": 28,
+      "alignedFrom": "gemini_2b.opus",
+      "model": "medium.en"
+    },
+    "gemini_3a": {
+      "id": "gemini_3a",
+      "status": "needs-review",
+      "lyricsHash": "583c0566c0f83129439c037597a9d5ceba7deeb2b81b6ec6981eb6c79cd7ebd0",
+      "duration": 188.36,
+      "warnings": [
+        "Line 22: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 22: many zero-length words",
+        "Line 23: invalid/zero-length timing; left untimed",
+        "Line 24: invalid/zero-length timing; left untimed",
+        "Line 25: invalid/zero-length timing; left untimed",
+        "Line 26: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Sunlight through the window, shining on the floor",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 10.9,
+          "end": 15.16,
+          "flags": []
+        },
+        {
+          "text": "We're working in the kitchen, opening the door",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 15.92,
+          "end": 20.46,
+          "flags": []
+        },
+        {
+          "text": "To a simpler kind of magic, rooted in the soil",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 20.82,
+          "end": 25.88,
+          "flags": []
+        },
+        {
+          "text": "Honest work and passion, a labor of our toil",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 26.82,
+          "end": 31.32,
+          "flags": []
+        },
+        {
+          "text": "Oh, these are the Sweet Times, natural and true",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 32.04,
+          "end": 41.04,
+          "flags": []
+        },
+        {
+          "text": "Gifts from the good earth, prepared just for you",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 43.24,
+          "end": 51.74,
+          "flags": []
+        },
+        {
+          "text": "Clean and full of promise, a better way to live",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 53.4,
+          "end": 57.86,
+          "flags": []
+        },
+        {
+          "text": "Taking care of nature, with so much more to give",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 58.68,
+          "end": 64.44,
+          "flags": []
+        },
+        {
+          "text": "Every batch we make, we do it with our heart",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 66.3,
+          "end": 71.32,
+          "flags": []
+        },
+        {
+          "text": "Hygiene and perfection, right from the very start",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 71.8,
+          "end": 76.38,
+          "flags": []
+        },
+        {
+          "text": "A step towards the future, a greener, brighter way",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 77.0,
+          "end": 81.62,
+          "flags": []
+        },
+        {
+          "text": "Nourishing the spirit, every single day",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 82.36,
+          "end": 86.82,
+          "flags": []
+        },
+        {
+          "text": "Oh, these are the Sweet Times, natural and true",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 87.6,
+          "end": 95.66,
+          "flags": []
+        },
+        {
+          "text": "Gifts from the good earth, prepared just for you",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 98.68,
+          "end": 106.72,
+          "flags": []
+        },
+        {
+          "text": "Clean and full of promise, a better way to live",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 108.02,
+          "end": 112.98,
+          "flags": []
+        },
+        {
+          "text": "Taking care of nature, with so much more to give",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 113.68,
+          "end": 119.5,
+          "flags": []
+        },
+        {
+          "text": "Less of what consumes, more of what sustains",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 121.3,
+          "end": 125.58,
+          "flags": []
+        },
+        {
+          "text": "Like the gentle river, like the steady rains",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 126.74,
+          "end": 131.2,
+          "flags": []
+        },
+        {
+          "text": "We’re part of the circle, part of the great design",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 131.66,
+          "end": 136.26,
+          "flags": []
+        },
+        {
+          "text": "Leaving all the heavy things so far behind",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 137.14,
+          "end": 141.68,
+          "flags": []
+        },
+        {
+          "text": "Oh, these are the Sweet Times, natural and true",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 143.48,
+          "end": 152.22,
+          "flags": []
+        },
+        {
+          "text": "Gifts from the good earth, prepared just for you",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 153.54,
+          "end": 154.78,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Clean and full of promise, a better way to live",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Taking care of nature, with so much more to give",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Natural and true...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 178.72,
+          "end": 185.7,
+          "flags": [
+            "many zero-length words"
+          ]
+        }
+      ],
+      "timedLines": 23,
+      "alignedFrom": "gemini_3a.opus",
+      "model": "medium.en"
+    },
+    "gemini_3b": {
+      "id": "gemini_3b",
+      "status": "needs-review",
+      "lyricsHash": "583c0566c0f83129439c037597a9d5ceba7deeb2b81b6ec6981eb6c79cd7ebd0",
+      "duration": 175.92,
+      "warnings": [
+        "Line 6: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Sunlight through the window, shining on the floor",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 11.38,
+          "end": 15.52,
+          "flags": []
+        },
+        {
+          "text": "We're working in the kitchen, opening the door",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 16.44,
+          "end": 20.98,
+          "flags": []
+        },
+        {
+          "text": "To a simpler kind of magic, rooted in the soil",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 21.28,
+          "end": 26.56,
+          "flags": []
+        },
+        {
+          "text": "Honest work and passion, a labor of our toil",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 27.5,
+          "end": 32.08,
+          "flags": []
+        },
+        {
+          "text": "Oh, these are the Sweet Times, natural and true",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 34.06,
+          "end": 38.62,
+          "flags": []
+        },
+        {
+          "text": "Gifts from the good earth, prepared just for you",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 40.18,
+          "end": 44.22,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Clean and full of promise, a better way to live",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 45.08,
+          "end": 49.62,
+          "flags": []
+        },
+        {
+          "text": "Taking care of nature, with so much more to give",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 50.48,
+          "end": 54.84,
+          "flags": []
+        },
+        {
+          "text": "Every batch we make, we do it with our heart",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 56.9,
+          "end": 61.92,
+          "flags": []
+        },
+        {
+          "text": "Hygiene and perfection, right from the very start",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 62.52,
+          "end": 67.26,
+          "flags": []
+        },
+        {
+          "text": "A step towards the future, a greener, brighter way",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 67.76,
+          "end": 72.74,
+          "flags": []
+        },
+        {
+          "text": "Nourishing the spirit, every single day",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 73.56,
+          "end": 78.24,
+          "flags": []
+        },
+        {
+          "text": "Oh, these are the Sweet Times, natural and true",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 80.26,
+          "end": 84.82,
+          "flags": []
+        },
+        {
+          "text": "Gifts from the good earth, prepared just for you",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 85.58,
+          "end": 90.26,
+          "flags": []
+        },
+        {
+          "text": "Clean and full of promise, a better way to live",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 91.1,
+          "end": 95.54,
+          "flags": []
+        },
+        {
+          "text": "Taking care of nature, with so much more to give",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 96.4,
+          "end": 101.36,
+          "flags": []
+        },
+        {
+          "text": "Less of what consumes, more of what sustains",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 103.36,
+          "end": 108.0,
+          "flags": []
+        },
+        {
+          "text": "Like the gentle river, like the steady rains",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 108.78,
+          "end": 113.36,
+          "flags": []
+        },
+        {
+          "text": "We’re part of the circle, part of the great design",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 113.82,
+          "end": 118.7,
+          "flags": []
+        },
+        {
+          "text": "Leaving all the heavy things so far behind",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 119.54,
+          "end": 124.5,
+          "flags": []
+        },
+        {
+          "text": "Oh, these are the Sweet Times, natural and true",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 128.0,
+          "end": 132.22,
+          "flags": []
+        },
+        {
+          "text": "Gifts from the good earth, prepared just for you",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 132.98,
+          "end": 137.8,
+          "flags": []
+        },
+        {
+          "text": "Clean and full of promise, a better way to live",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 138.58,
+          "end": 142.96,
+          "flags": []
+        },
+        {
+          "text": "Taking care of nature, with so much more to give",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 143.9,
+          "end": 148.56,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 149.8,
+          "end": 154.48,
+          "flags": []
+        },
+        {
+          "text": "Natural and true...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 165.2,
+          "end": 171.2,
+          "flags": []
+        }
+      ],
+      "timedLines": 26,
+      "alignedFrom": "gemini_3b.opus",
+      "model": "medium.en"
+    },
+    "gemini_4a": {
+      "id": "gemini_4a",
+      "status": "needs-review",
+      "lyricsHash": "7e033b4dc9688e238ed8c267891a1a67f03550f4a6bff13e0be54cdb1d5ba391",
+      "duration": 148.56,
+      "warnings": [
+        "Line 20: many zero-length words",
+        "Line 23: many zero-length words",
+        "Line 27: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Get up, get ready, the day has begun",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 13.6,
+          "end": 20.34,
+          "flags": []
+        },
+        {
+          "text": "We’re mixing the best stuff right under the sun!",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 21.5,
+          "end": 25.14,
+          "flags": []
+        },
+        {
+          "text": "Purity’s the mission, quality’s the game",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 25.14,
+          "end": 28.64,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times is the feeling, you know our name!",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 29.0,
+          "end": 32.6,
+          "flags": []
+        },
+        {
+          "text": "We bring the Sweet Times! Yeah!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 32.6,
+          "end": 35.2,
+          "flags": []
+        },
+        {
+          "text": "Fresh from the ground!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 35.24,
+          "end": 36.88,
+          "flags": []
+        },
+        {
+          "text": "The cleanest, greenest flavor anywhere around!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 36.88,
+          "end": 40.88,
+          "flags": []
+        },
+        {
+          "text": "Protecting the planet with every single bite",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 41.34,
+          "end": 44.66,
+          "flags": []
+        },
+        {
+          "text": "Doing it the right way, morning, noon, and night!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 45.26,
+          "end": 51.08,
+          "flags": []
+        },
+        {
+          "text": "Scrubbing it spotless, keeping it pristine",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 51.08,
+          "end": 60.62,
+          "flags": []
+        },
+        {
+          "text": "The finest operation you have ever seen",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 61.72,
+          "end": 64.9,
+          "flags": []
+        },
+        {
+          "text": "Plant-powered energy, fueling up the soul",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 65.44,
+          "end": 68.82,
+          "flags": []
+        },
+        {
+          "text": "Saving up the environment, yeah, that’s the goal!",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 69.3,
+          "end": 72.72,
+          "flags": []
+        },
+        {
+          "text": "We bring the Sweet Times! Yeah!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 72.72,
+          "end": 75.38,
+          "flags": []
+        },
+        {
+          "text": "Fresh from the ground!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 75.52,
+          "end": 77.04,
+          "flags": []
+        },
+        {
+          "text": "The cleanest, greenest flavor anywhere around!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 77.04,
+          "end": 81.16,
+          "flags": []
+        },
+        {
+          "text": "Protecting the planet with every single bite",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 81.18,
+          "end": 84.86,
+          "flags": []
+        },
+        {
+          "text": "Doing it the right way, morning, noon, and night!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 85.4,
+          "end": 89.58,
+          "flags": []
+        },
+        {
+          "text": "Keep it clean!",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 90.7,
+          "end": 100.56,
+          "flags": []
+        },
+        {
+          "text": "Keep it green!",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 100.8,
+          "end": 103.14,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Best you’ve ever seen!",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 104.16,
+          "end": 106.8,
+          "flags": []
+        },
+        {
+          "text": "We bring the Sweet Times! Yeah!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 107.72,
+          "end": 115.52,
+          "flags": []
+        },
+        {
+          "text": "Fresh from the ground!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 115.72,
+          "end": 117.3,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "The cleanest, greenest flavor anywhere around!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 117.3,
+          "end": 121.58,
+          "flags": []
+        },
+        {
+          "text": "Protecting the planet with every single bite",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 121.58,
+          "end": 125.04,
+          "flags": []
+        },
+        {
+          "text": "Doing it the right way, morning, noon, and night!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 125.62,
+          "end": 131.38,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times!",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 131.7,
+          "end": 133.4,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Oh yeah!",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 133.6,
+          "end": 135.8,
+          "flags": []
+        },
+        {
+          "text": "Keep it green!",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 136.34,
+          "end": 138.92,
+          "flags": []
+        }
+      ],
+      "timedLines": 29,
+      "alignedFrom": "gemini_4a.opus",
+      "model": "medium.en"
+    },
+    "gemini_4b": {
+      "id": "gemini_4b",
+      "status": "needs-review",
+      "lyricsHash": "7e033b4dc9688e238ed8c267891a1a67f03550f4a6bff13e0be54cdb1d5ba391",
+      "duration": 161.76,
+      "warnings": [
+        "Line 1: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 1: many zero-length words",
+        "Line 2: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 2: many zero-length words",
+        "Line 3: invalid/zero-length timing; left untimed",
+        "Line 4: invalid/zero-length timing; left untimed",
+        "Line 5: invalid/zero-length timing; left untimed",
+        "Line 6: invalid/zero-length timing; left untimed",
+        "Line 7: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 7: many zero-length words",
+        "Line 8: invalid/zero-length timing; left untimed",
+        "Line 9: unusually long line span",
+        "Line 9: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 9: many zero-length words",
+        "Line 10: invalid/zero-length timing; left untimed",
+        "Line 11: invalid/zero-length timing; left untimed",
+        "Line 12: invalid/zero-length timing; left untimed",
+        "Line 13: many words in a very short span",
+        "Line 13: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 13: many zero-length words",
+        "Line 14: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 19: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 20: many zero-length words",
+        "Line 21: many zero-length words",
+        "Line 22: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 23: many zero-length words",
+        "Line 27: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 28: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 28: many zero-length words",
+        "Line 29: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 29: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "Get up, get ready, the day has begun",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 1.92,
+          "end": 11.74,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "We’re mixing the best stuff right under the sun!",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 11.74,
+          "end": 17.94,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Purity’s the mission, quality’s the game",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Sweet Times is the feeling, you know our name!",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "We bring the Sweet Times! Yeah!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Fresh from the ground!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "The cleanest, greenest flavor anywhere around!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 21.84,
+          "end": 25.24,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Protecting the planet with every single bite",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Doing it the right way, morning, noon, and night!",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 25.24,
+          "end": 44.16,
+          "flags": [
+            "unusually long line span",
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Scrubbing it spotless, keeping it pristine",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "The finest operation you have ever seen",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Plant-powered energy, fueling up the soul",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": null,
+          "end": null,
+          "flags": [
+            "invalid/zero-length timing; left untimed"
+          ]
+        },
+        {
+          "text": "Saving up the environment, yeah, that’s the goal!",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 44.16,
+          "end": 44.24,
+          "flags": [
+            "many words in a very short span",
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "We bring the Sweet Times! Yeah!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 44.24,
+          "end": 50.28,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Fresh from the ground!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 50.62,
+          "end": 52.16,
+          "flags": []
+        },
+        {
+          "text": "The cleanest, greenest flavor anywhere around!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 52.16,
+          "end": 56.04,
+          "flags": []
+        },
+        {
+          "text": "Protecting the planet with every single bite",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 56.08,
+          "end": 59.7,
+          "flags": []
+        },
+        {
+          "text": "Doing it the right way, morning, noon, and night!",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 60.62,
+          "end": 63.84,
+          "flags": []
+        },
+        {
+          "text": "Keep it clean!",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 63.84,
+          "end": 67.48,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Keep it green!",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 67.48,
+          "end": 67.84,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Best you’ve ever seen!",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 68.38,
+          "end": 71.92,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "We bring the Sweet Times! Yeah!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 72.98,
+          "end": 81.94,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Fresh from the ground!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 82.4,
+          "end": 83.9,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "The cleanest, greenest flavor anywhere around!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 84.0,
+          "end": 87.78,
+          "flags": []
+        },
+        {
+          "text": "Protecting the planet with every single bite",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 87.78,
+          "end": 91.6,
+          "flags": []
+        },
+        {
+          "text": "Doing it the right way, morning, noon, and night!",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 92.24,
+          "end": 96.02,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times!",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 96.52,
+          "end": 99.72,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "Oh yeah!",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 102.4,
+          "end": 112.16,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Keep it green!",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 150.2,
+          "end": 156.32,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        }
+      ],
+      "timedLines": 21,
+      "alignedFrom": "gemini_4b.opus",
+      "model": "medium.en"
+    },
+    "gemini_5a": {
+      "id": "gemini_5a",
+      "status": "auto",
+      "lyricsHash": "5a8d405c723c95df503dc8e3ccfa9ed4db309d072f6879da07f0b978e9d0d2cf",
+      "duration": 197.92,
+      "warnings": [],
+      "lines": [
+        {
+          "text": "A quiet revolution, starting from the seed",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 17.98,
+          "end": 27.88,
+          "flags": []
+        },
+        {
+          "text": "Understanding nature, fulfilling every need",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 28.68,
+          "end": 33.02,
+          "flags": []
+        },
+        {
+          "text": "Precision in the process, purity in mind",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 33.74,
+          "end": 38.56,
+          "flags": []
+        },
+        {
+          "text": "Leaving all the old ways and heavy trails behind",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 39.24,
+          "end": 43.58,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, a gentle kind of light",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 44.4,
+          "end": 49.36,
+          "flags": []
+        },
+        {
+          "text": "Crafting something beautiful, doing something right",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 50.08,
+          "end": 54.5,
+          "flags": []
+        },
+        {
+          "text": "A harmony of flavors, a promise to the earth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 54.98,
+          "end": 59.78,
+          "flags": []
+        },
+        {
+          "text": "Discovering a better way, realizing its worth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 60.26,
+          "end": 67.54,
+          "flags": []
+        },
+        {
+          "text": "Every detail matters, every step is clear",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 69.9,
+          "end": 81.12,
+          "flags": []
+        },
+        {
+          "text": "Bringing highest quality, year after year",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 82.14,
+          "end": 86.58,
+          "flags": []
+        },
+        {
+          "text": "A shift in our perspective, a plant-based gentle sway",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 87.12,
+          "end": 91.92,
+          "flags": []
+        },
+        {
+          "text": "Healing up the environment, day by day",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 92.5,
+          "end": 97.78,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, a gentle kind of light",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 97.88,
+          "end": 102.38,
+          "flags": []
+        },
+        {
+          "text": "Crafting something beautiful, doing something right",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 103.1,
+          "end": 107.86,
+          "flags": []
+        },
+        {
+          "text": "A harmony of flavors, a promise to the earth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 108.34,
+          "end": 113.16,
+          "flags": []
+        },
+        {
+          "text": "Discovering a better way, realizing its worth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 113.54,
+          "end": 121.02,
+          "flags": []
+        },
+        {
+          "text": "Breathe in the future, clean and clear",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 121.96,
+          "end": 126.22,
+          "flags": []
+        },
+        {
+          "text": "The balance we seek is already here",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 126.82,
+          "end": 131.46,
+          "flags": []
+        },
+        {
+          "text": "In the choices we make, in the seeds that we sow",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 131.82,
+          "end": 137.24,
+          "flags": []
+        },
+        {
+          "text": "Watch the Sweet Times begin to grow",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 138.08,
+          "end": 142.38,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, a gentle kind of light",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 146.94,
+          "end": 155.86,
+          "flags": []
+        },
+        {
+          "text": "Crafting something beautiful, doing something right",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 156.42,
+          "end": 161.04,
+          "flags": []
+        },
+        {
+          "text": "A harmony of flavors, a promise to the earth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 161.86,
+          "end": 166.06,
+          "flags": []
+        },
+        {
+          "text": "Discovering a better way, realizing its worth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 166.92,
+          "end": 174.22,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 175.58,
+          "end": 180.4,
+          "flags": []
+        },
+        {
+          "text": "A gentle light...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 180.4,
+          "end": 185.06,
+          "flags": []
+        }
+      ],
+      "timedLines": 26,
+      "alignedFrom": "gemini_5a.opus",
+      "model": "medium.en"
+    },
+    "gemini_5b": {
+      "id": "gemini_5b",
+      "status": "needs-review",
+      "lyricsHash": "5a8d405c723c95df503dc8e3ccfa9ed4db309d072f6879da07f0b978e9d0d2cf",
+      "duration": 179.96,
+      "warnings": [
+        "Line 1: unusually long line span",
+        "Line 11: many zero-length words",
+        "Line 25: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 26: low model word probability (diagnostic, not calibrated confidence)",
+        "Line 26: many zero-length words"
+      ],
+      "lines": [
+        {
+          "text": "A quiet revolution, starting from the seed",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 1.66,
+          "end": 28.42,
+          "flags": [
+            "unusually long line span"
+          ]
+        },
+        {
+          "text": "Understanding nature, fulfilling every need",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 29.44,
+          "end": 33.46,
+          "flags": []
+        },
+        {
+          "text": "Precision in the process, purity in mind",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 34.02,
+          "end": 38.6,
+          "flags": []
+        },
+        {
+          "text": "Leaving all the old ways and heavy trails behind",
+          "section": "Verse 1",
+          "sectionIndex": 1,
+          "start": 39.08,
+          "end": 43.38,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, a gentle kind of light",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 44.32,
+          "end": 48.68,
+          "flags": []
+        },
+        {
+          "text": "Crafting something beautiful, doing something right",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 49.36,
+          "end": 53.7,
+          "flags": []
+        },
+        {
+          "text": "A harmony of flavors, a promise to the earth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 54.32,
+          "end": 58.82,
+          "flags": []
+        },
+        {
+          "text": "Discovering a better way, realizing its worth",
+          "section": "Chorus",
+          "sectionIndex": 2,
+          "start": 59.32,
+          "end": 65.36,
+          "flags": []
+        },
+        {
+          "text": "Every detail matters, every step is clear",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 69.58,
+          "end": 76.12,
+          "flags": []
+        },
+        {
+          "text": "Bringing highest quality, year after year",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 77.12,
+          "end": 81.4,
+          "flags": []
+        },
+        {
+          "text": "A shift in our perspective, a plant-based gentle sway",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 82.38,
+          "end": 86.62,
+          "flags": [
+            "many zero-length words"
+          ]
+        },
+        {
+          "text": "Healing up the environment, day by day",
+          "section": "Verse 2",
+          "sectionIndex": 3,
+          "start": 87.2,
+          "end": 91.08,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, a gentle kind of light",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 92.32,
+          "end": 96.54,
+          "flags": []
+        },
+        {
+          "text": "Crafting something beautiful, doing something right",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 97.32,
+          "end": 101.46,
+          "flags": []
+        },
+        {
+          "text": "A harmony of flavors, a promise to the earth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 102.22,
+          "end": 106.56,
+          "flags": []
+        },
+        {
+          "text": "Discovering a better way, realizing its worth",
+          "section": "Chorus",
+          "sectionIndex": 4,
+          "start": 107.26,
+          "end": 113.66,
+          "flags": []
+        },
+        {
+          "text": "Breathe in the future, clean and clear",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 115.14,
+          "end": 119.08,
+          "flags": []
+        },
+        {
+          "text": "The balance we seek is already here",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 119.84,
+          "end": 124.18,
+          "flags": []
+        },
+        {
+          "text": "In the choices we make, in the seeds that we sow",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 124.74,
+          "end": 128.96,
+          "flags": []
+        },
+        {
+          "text": "Watch the Sweet Times begin to grow",
+          "section": "Bridge",
+          "sectionIndex": 5,
+          "start": 130.4,
+          "end": 134.06,
+          "flags": []
+        },
+        {
+          "text": "Welcome to the Sweet Times, a gentle kind of light",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 135.14,
+          "end": 139.52,
+          "flags": []
+        },
+        {
+          "text": "Crafting something beautiful, doing something right",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 140.16,
+          "end": 144.84,
+          "flags": []
+        },
+        {
+          "text": "A harmony of flavors, a promise to the earth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 145.26,
+          "end": 149.74,
+          "flags": []
+        },
+        {
+          "text": "Discovering a better way, realizing its worth",
+          "section": "Chorus",
+          "sectionIndex": 6,
+          "start": 150.22,
+          "end": 156.34,
+          "flags": []
+        },
+        {
+          "text": "Sweet Times...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 158.76,
+          "end": 164.74,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)"
+          ]
+        },
+        {
+          "text": "A gentle light...",
+          "section": "Outro",
+          "sectionIndex": 7,
+          "start": 166.9,
+          "end": 171.0,
+          "flags": [
+            "low model word probability (diagnostic, not calibrated confidence)",
+            "many zero-length words"
+          ]
+        }
+      ],
+      "timedLines": 26,
+      "alignedFrom": "gemini_5b.opus",
+      "model": "medium.en"
+    }
+  }
+}

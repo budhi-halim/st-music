@@ -1,0 +1,1202 @@
+# SWEET TIMES MUSIC - MASTER LYRICS
+# Edit this one file: lyrics/recordings.txt. Save as UTF-8.
+# These are theoretical lyrics, not a verified transcript of the recordings.
+# Each === track_id === block belongs to ONE recording, shared by Opus and M4A.
+# Versions a and b are separate editable blocks, even when their initial text matches.
+# Keep track IDs unchanged. One sung line per physical line; blank lines are allowed.
+# [Verse 1], [Chorus], etc. are section labels, NEVER aligned as sung words.
+# Repeat actual lyrics in full each time they are sung. No "repeat chorus" shorthand.
+# Add/remove/edit words and repeated sections to match each actual performance.
+# Lines starting with # are comments. Non-sung notes belong in # comments, not lyrics.
+# Gemini cleanup removed fade/instrument directions but kept sung ad-libs (Yeah!).
+# No timestamps are needed here. After editing, run:
+#     python tools/lyrics.py align
+# To update plain lyrics without AI, run: python tools/lyrics.py publish
+# Automated timing estimates require listening checks; they are not certified alignment.
+
+
+=== chatgpt_1a ===
+
+[Intro]
+Good things grow
+When we give them care
+
+[Verse 1]
+Morning light comes through the trees
+Green leaves moving in the breeze
+Clean hands ready, counters clear
+Care begins before you're here
+Take the time to get things right
+Bring that care to every bite
+Set the table, stay a while
+Let the first taste bring a smile
+
+[Pre-Chorus]
+A little thought in what we choose
+A little love in what we do
+
+[Chorus]
+Sweet Times, let the good things grow
+From the little seeds to the love we show
+Plant-based goodness, made with care
+A little joy for us to share
+Sweet Times, for the life we know
+Love this world, let the good things grow
+
+[Verse 2]
+Rivers running, open sky
+Clouds that let the sunlight by
+There's a world beyond our door
+Worth a little caring for
+Bring more plants into your day
+Let that kindness lead the way
+For the earth beneath our feet
+For the lives we've yet to meet
+
+[Pre-Chorus]
+A little thought in what we choose
+A little love in what we do
+
+[Chorus]
+Sweet Times, let the good things grow
+From the little seeds to the love we show
+Plant-based goodness, made with care
+A little joy for us to share
+Sweet Times, for the life we know
+Love this world, let the good things grow
+
+[Bridge]
+There's a world beyond the table
+There's a life beyond today
+Let the care we put in making
+Be the care we give away
+Keep a place for something green
+In the days still yet unseen
+
+[Chorus]
+Sweet Times, let the good things grow
+From the little seeds to the love we show
+Plant-based goodness, made with care
+A little joy for us to share
+Sweet Times, for the life we know
+Love this world, let the good things grow
+
+[Outro]
+Sweet Times, made with care
+Good things grow when we share
+
+
+=== chatgpt_1b ===
+
+[Intro]
+Good things grow
+When we give them care
+
+[Verse 1]
+Morning light comes through the trees
+Green leaves moving in the breeze
+Clean hands ready, counters clear
+Care begins before you're here
+Take the time to get things right
+Bring that care to every bite
+Set the table, stay a while
+Let the first taste bring a smile
+
+[Pre-Chorus]
+A little thought in what we choose
+A little love in what we do
+
+[Chorus]
+Sweet Times, let the good things grow
+From the little seeds to the love we show
+Plant-based goodness, made with care
+A little joy for us to share
+Sweet Times, for the life we know
+Love this world, let the good things grow
+
+[Verse 2]
+Rivers running, open sky
+Clouds that let the sunlight by
+There's a world beyond our door
+Worth a little caring for
+Bring more plants into your day
+Let that kindness lead the way
+For the earth beneath our feet
+For the lives we've yet to meet
+
+[Pre-Chorus]
+A little thought in what we choose
+A little love in what we do
+
+[Chorus]
+Sweet Times, let the good things grow
+From the little seeds to the love we show
+Plant-based goodness, made with care
+A little joy for us to share
+Sweet Times, for the life we know
+Love this world, let the good things grow
+
+[Bridge]
+There's a world beyond the table
+There's a life beyond today
+Let the care we put in making
+Be the care we give away
+Keep a place for something green
+In the days still yet unseen
+
+[Chorus]
+Sweet Times, let the good things grow
+From the little seeds to the love we show
+Plant-based goodness, made with care
+A little joy for us to share
+Sweet Times, for the life we know
+Love this world, let the good things grow
+
+[Outro]
+Sweet Times, made with care
+Good things grow when we share
+
+
+=== chatgpt_2a ===
+
+[Intro]
+Sweet Times
+Come on, pass it round
+
+[Verse 1]
+Turn the ordinary up
+Bring your people, fill your cup
+Something good is on the way
+Put a little green into your day
+Clean hands working, every step
+High standards set and promises kept
+Let the flavor take the spotlight
+Made with pride and made just right
+
+[Pre-Chorus]
+Pull up a chair, there's room for you
+We've got something good to share with you
+
+[Chorus]
+Sweet Times, pass the good around
+Plant-based flavor, look what we've found
+Made with care and served with pride
+Good food, good mood, side by side
+Keep it green and let it shine
+Good food, good mood, Sweet Times
+
+[Verse 2]
+Doesn't take a grand parade
+To show some care in choices made
+Think about the world outside
+All that green that keeps us alive
+Let the garden set the tone
+Show some love to our shared home
+Greener habits start with you
+And there's joy in something new
+
+[Pre-Chorus]
+Pull up a chair, there's room for you
+We've got something good to share with you
+
+[Chorus]
+Sweet Times, pass the good around
+Plant-based flavor, look what we've found
+Made with care and served with pride
+Good food, good mood, side by side
+Keep it green and let it shine
+Good food, good mood, Sweet Times
+
+[Instrumental Break]
+
+[Bridge]
+Not just a flash, not just a trend
+Care from beginning to the end
+For the soil, the sky, the sea
+For the way we want to be
+Raise your glass and make some room
+There's a greener kind of groove
+
+[Chorus]
+Sweet Times, pass the good around
+Plant-based flavor, look what we've found
+Made with care and served with pride
+Good food, good mood, side by side
+Keep it green and let it shine
+Good food, good mood, Sweet Times
+
+[Outro]
+Good food, good mood, Sweet Times
+Pass it round, one more time
+
+
+=== chatgpt_2b ===
+
+[Intro]
+Sweet Times
+Come on, pass it round
+
+[Verse 1]
+Turn the ordinary up
+Bring your people, fill your cup
+Something good is on the way
+Put a little green into your day
+Clean hands working, every step
+High standards set and promises kept
+Let the flavor take the spotlight
+Made with pride and made just right
+
+[Pre-Chorus]
+Pull up a chair, there's room for you
+We've got something good to share with you
+
+[Chorus]
+Sweet Times, pass the good around
+Plant-based flavor, look what we've found
+Made with care and served with pride
+Good food, good mood, side by side
+Keep it green and let it shine
+Good food, good mood, Sweet Times
+
+[Verse 2]
+Doesn't take a grand parade
+To show some care in choices made
+Think about the world outside
+All that green that keeps us alive
+Let the garden set the tone
+Show some love to our shared home
+Greener habits start with you
+And there's joy in something new
+
+[Pre-Chorus]
+Pull up a chair, there's room for you
+We've got something good to share with you
+
+[Chorus]
+Sweet Times, pass the good around
+Plant-based flavor, look what we've found
+Made with care and served with pride
+Good food, good mood, side by side
+Keep it green and let it shine
+Good food, good mood, Sweet Times
+
+[Instrumental Break]
+
+[Bridge]
+Not just a flash, not just a trend
+Care from beginning to the end
+For the soil, the sky, the sea
+For the way we want to be
+Raise your glass and make some room
+There's a greener kind of groove
+
+[Chorus]
+Sweet Times, pass the good around
+Plant-based flavor, look what we've found
+Made with care and served with pride
+Good food, good mood, side by side
+Keep it green and let it shine
+Good food, good mood, Sweet Times
+
+[Outro]
+Good food, good mood, Sweet Times
+Pass it round, one more time
+
+
+=== chatgpt_3a ===
+
+[Intro]
+Let the daylight in
+Let a little green begin
+
+[Verse 1]
+Open up the window wide
+Let the morning come inside
+A leaf unfolds, a new day starts
+Simple things can fill our hearts
+Clean and careful, start to end
+Made with care we'd give a friend
+Every step deserves our best
+Taste can tell you all the rest
+
+[Pre-Chorus]
+A little joy, a little care
+There's something good for us to share
+
+[Chorus]
+Sweet Times, a little more green
+A little more love in our daily routine
+Plant-based goodness, bright on the plate
+Come for the flavor, you're welcome to stay
+Sweet Times, wherever we go
+Leave room for tomorrow to grow
+
+[Verse 2]
+You don't need to chase the sun
+There's a little here for everyone
+Pass a plate from hand to hand
+Keep some kindness for the land
+Trees that shade us, seas that shine
+Not just yours and not just mine
+Let the choices that we make
+Hold some care for nature's sake
+
+[Pre-Chorus]
+A little joy, a little care
+There's something good for us to share
+
+[Chorus]
+Sweet Times, a little more green
+A little more love in our daily routine
+Plant-based goodness, bright on the plate
+Come for the flavor, you're welcome to stay
+Sweet Times, wherever we go
+Leave room for tomorrow to grow
+
+[Instrumental Break]
+
+[Bridge]
+No need to change it all at once
+A greener plate can be enough
+To start a thoughtful way of living
+More aware of what we're giving
+Let the future have its place
+In the little things we make
+
+[Chorus]
+Sweet Times, a little more green
+A little more love in our daily routine
+Plant-based goodness, bright on the plate
+Come for the flavor, you're welcome to stay
+Sweet Times, wherever we go
+Leave room for tomorrow to grow
+
+[Outro]
+Sweet Times, let the good days flow
+Leave room for tomorrow to grow
+
+
+=== chatgpt_3b ===
+
+[Intro]
+Let the daylight in
+Let a little green begin
+
+[Verse 1]
+Open up the window wide
+Let the morning come inside
+A leaf unfolds, a new day starts
+Simple things can fill our hearts
+Clean and careful, start to end
+Made with care we'd give a friend
+Every step deserves our best
+Taste can tell you all the rest
+
+[Pre-Chorus]
+A little joy, a little care
+There's something good for us to share
+
+[Chorus]
+Sweet Times, a little more green
+A little more love in our daily routine
+Plant-based goodness, bright on the plate
+Come for the flavor, you're welcome to stay
+Sweet Times, wherever we go
+Leave room for tomorrow to grow
+
+[Verse 2]
+You don't need to chase the sun
+There's a little here for everyone
+Pass a plate from hand to hand
+Keep some kindness for the land
+Trees that shade us, seas that shine
+Not just yours and not just mine
+Let the choices that we make
+Hold some care for nature's sake
+
+[Pre-Chorus]
+A little joy, a little care
+There's something good for us to share
+
+[Chorus]
+Sweet Times, a little more green
+A little more love in our daily routine
+Plant-based goodness, bright on the plate
+Come for the flavor, you're welcome to stay
+Sweet Times, wherever we go
+Leave room for tomorrow to grow
+
+[Instrumental Break]
+
+[Bridge]
+No need to change it all at once
+A greener plate can be enough
+To start a thoughtful way of living
+More aware of what we're giving
+Let the future have its place
+In the little things we make
+
+[Chorus]
+Sweet Times, a little more green
+A little more love in our daily routine
+Plant-based goodness, bright on the plate
+Come for the flavor, you're welcome to stay
+Sweet Times, wherever we go
+Leave room for tomorrow to grow
+
+[Outro]
+Sweet Times, let the good days flow
+Leave room for tomorrow to grow
+
+
+=== chatgpt_4a ===
+
+[Intro]
+A light comes on
+A new day starts
+
+[Verse 1]
+Clean hands ready, aprons on
+Working with the early dawn
+Every surface clean and clear
+Every step considered here
+Care is more than what we say
+It's the work we do each day
+Quality in small details
+The quiet work behind each meal
+
+[Pre-Chorus]
+Before a plate is passed to you
+Our care is in the things we do
+
+[Chorus]
+Sweet Times, a place at the table
+Plant-based goodness, made with care
+Pride in every small beginning
+Love in everything we share
+For the ones we hold beside us
+For the world that holds us all
+
+[Verse 2]
+Beyond the light of this kitchen
+Beyond the roads that lead us home
+There are rivers worth protecting
+There are seeds still to be sown
+More plants upon the table
+More thought in what we do
+Leave the living world its beauty
+For the ones who'll follow you
+
+[Pre-Chorus]
+Before a plate is passed to you
+Our care is in the things we do
+
+[Chorus]
+Sweet Times, a place at the table
+Plant-based goodness, made with care
+Pride in every small beginning
+Love in everything we share
+For the ones we hold beside us
+For the world that holds us all
+
+[Bridge]
+We don't have to hold the whole world
+In a single pair of hands
+But we each can bring some kindness
+To the place where we now stand
+Let it start around the table
+Let it reach beyond these walls
+
+[Chorus]
+Sweet Times, a place at the table
+Plant-based goodness, made with care
+Pride in every small beginning
+Love in everything we share
+For the ones we hold beside us
+For the world that holds us all
+
+[Outro]
+Sweet Times, made with care
+For the world we share
+
+
+=== chatgpt_4b ===
+
+[Intro]
+A light comes on
+A new day starts
+
+[Verse 1]
+Clean hands ready, aprons on
+Working with the early dawn
+Every surface clean and clear
+Every step considered here
+Care is more than what we say
+It's the work we do each day
+Quality in small details
+The quiet work behind each meal
+
+[Pre-Chorus]
+Before a plate is passed to you
+Our care is in the things we do
+
+[Chorus]
+Sweet Times, a place at the table
+Plant-based goodness, made with care
+Pride in every small beginning
+Love in everything we share
+For the ones we hold beside us
+For the world that holds us all
+
+[Verse 2]
+Beyond the light of this kitchen
+Beyond the roads that lead us home
+There are rivers worth protecting
+There are seeds still to be sown
+More plants upon the table
+More thought in what we do
+Leave the living world its beauty
+For the ones who'll follow you
+
+[Pre-Chorus]
+Before a plate is passed to you
+Our care is in the things we do
+
+[Chorus]
+Sweet Times, a place at the table
+Plant-based goodness, made with care
+Pride in every small beginning
+Love in everything we share
+For the ones we hold beside us
+For the world that holds us all
+
+[Bridge]
+We don't have to hold the whole world
+In a single pair of hands
+But we each can bring some kindness
+To the place where we now stand
+Let it start around the table
+Let it reach beyond these walls
+
+[Chorus]
+Sweet Times, a place at the table
+Plant-based goodness, made with care
+Pride in every small beginning
+Love in everything we share
+For the ones we hold beside us
+For the world that holds us all
+
+[Outro]
+Sweet Times, made with care
+For the world we share
+
+
+=== chatgpt_5a ===
+
+[Intro]
+Start here
+With a little green
+
+[Verse 1]
+We don't have to wait for someday
+We can bring it into view
+In the things we put together
+In the daily things we do
+Clean hands, care in every detail
+Pride in every step we take
+Goodness rooted in the plants we choose
+Something thoughtful on your plate
+
+[Pre-Chorus]
+Let the ordinary be
+The beginning of a greener dream
+
+[Chorus]
+Sweet Times, tomorrow starts here
+Plant-based goodness, a little more care
+Pride in the making, joy all around
+Love for the earth that keeps turning round
+Sweet Times, let the future shine
+One thoughtful choice, one day at a time
+
+[Post-Chorus]
+One day at a time
+Sweet Times, Sweet Times
+
+[Verse 2]
+There's a forest past the skyline
+There's a river past the road
+Every life a part of something
+Bigger than the things we own
+Put more plants into the picture
+Keep the living world in mind
+Let the care we show together
+Be the mark we leave behind
+
+[Pre-Chorus]
+Let the ordinary be
+The beginning of a greener dream
+
+[Chorus]
+Sweet Times, tomorrow starts here
+Plant-based goodness, a little more care
+Pride in the making, joy all around
+Love for the earth that keeps turning round
+Sweet Times, let the future shine
+One thoughtful choice, one day at a time
+
+[Post-Chorus]
+One day at a time
+Sweet Times, Sweet Times
+
+[Instrumental Break]
+
+[Bridge]
+Take the care beyond the kitchen
+Past the table, past the door
+Make a little room for nature
+That's a future worth working for
+Not just something we believe
+But the care in how we live
+
+[Chorus]
+Sweet Times, tomorrow starts here
+Plant-based goodness, a little more care
+Pride in the making, joy all around
+Love for the earth that keeps turning round
+Sweet Times, let the future shine
+One thoughtful choice, one day at a time
+
+[Outro]
+Tomorrow starts here
+Sweet Times
+
+
+=== chatgpt_5b ===
+
+[Intro]
+Start here
+With a little green
+
+[Verse 1]
+We don't have to wait for someday
+We can bring it into view
+In the things we put together
+In the daily things we do
+Clean hands, care in every detail
+Pride in every step we take
+Goodness rooted in the plants we choose
+Something thoughtful on your plate
+
+[Pre-Chorus]
+Let the ordinary be
+The beginning of a greener dream
+
+[Chorus]
+Sweet Times, tomorrow starts here
+Plant-based goodness, a little more care
+Pride in the making, joy all around
+Love for the earth that keeps turning round
+Sweet Times, let the future shine
+One thoughtful choice, one day at a time
+
+[Post-Chorus]
+One day at a time
+Sweet Times, Sweet Times
+
+[Verse 2]
+There's a forest past the skyline
+There's a river past the road
+Every life a part of something
+Bigger than the things we own
+Put more plants into the picture
+Keep the living world in mind
+Let the care we show together
+Be the mark we leave behind
+
+[Pre-Chorus]
+Let the ordinary be
+The beginning of a greener dream
+
+[Chorus]
+Sweet Times, tomorrow starts here
+Plant-based goodness, a little more care
+Pride in the making, joy all around
+Love for the earth that keeps turning round
+Sweet Times, let the future shine
+One thoughtful choice, one day at a time
+
+[Post-Chorus]
+One day at a time
+Sweet Times, Sweet Times
+
+[Instrumental Break]
+
+[Bridge]
+Take the care beyond the kitchen
+Past the table, past the door
+Make a little room for nature
+That's a future worth working for
+Not just something we believe
+But the care in how we live
+
+[Chorus]
+Sweet Times, tomorrow starts here
+Plant-based goodness, a little more care
+Pride in the making, joy all around
+Love for the earth that keeps turning round
+Sweet Times, let the future shine
+One thoughtful choice, one day at a time
+
+[Outro]
+Tomorrow starts here
+Sweet Times
+
+
+=== gemini_1a ===
+
+[Verse 1]
+Sunrise on the fields, green leaves catching light
+A brand new day is breaking, everything feels right
+We're mixing up the magic, working with our hands
+Bringing wholesome goodness across the fertile lands
+
+[Chorus]
+Sweet Times are here, growing from the ground
+The finest taste of nature, the best that can be found
+Pure and simple living, healthy and so clean
+We're building something better than you have ever seen
+Yeah, Sweet Times are here, let the goodness grow!
+
+[Verse 2]
+Care in every step, keeping things so pure
+Quality you trust, of that you can be sure
+From the earth it comes, to fuel the lives we lead
+Planting seeds of hope, giving the world what it needs
+
+[Chorus]
+Sweet Times are here, growing from the ground
+The finest taste of nature, the best that can be found
+Pure and simple living, healthy and so clean
+We're building something better than you have ever seen
+Yeah, Sweet Times are here, let the goodness grow!
+
+[Bridge]
+Working with the planet, a gentle, guiding hand
+Leaving a lighter footprint, protecting this green land
+Every choice we make, a step towards the light
+Nourishing the future, making everything so bright
+
+[Chorus]
+Sweet Times are here, growing from the ground
+The finest taste of nature, the best that can be found
+Pure and simple living, healthy and so clean
+We're building something better than you have ever seen
+Yeah, Sweet Times are here, let the goodness grow!
+
+[Outro]
+Growing from the ground...
+The finest taste of nature...
+Sweet Times...
+
+
+=== gemini_1b ===
+
+[Verse 1]
+Sunrise on the fields, green leaves catching light
+A brand new day is breaking, everything feels right
+We're mixing up the magic, working with our hands
+Bringing wholesome goodness across the fertile lands
+
+[Chorus]
+Sweet Times are here, growing from the ground
+The finest taste of nature, the best that can be found
+Pure and simple living, healthy and so clean
+We're building something better than you have ever seen
+Yeah, Sweet Times are here, let the goodness grow!
+
+[Verse 2]
+Care in every step, keeping things so pure
+Quality you trust, of that you can be sure
+From the earth it comes, to fuel the lives we lead
+Planting seeds of hope, giving the world what it needs
+
+[Chorus]
+Sweet Times are here, growing from the ground
+The finest taste of nature, the best that can be found
+Pure and simple living, healthy and so clean
+We're building something better than you have ever seen
+Yeah, Sweet Times are here, let the goodness grow!
+
+[Bridge]
+Working with the planet, a gentle, guiding hand
+Leaving a lighter footprint, protecting this green land
+Every choice we make, a step towards the light
+Nourishing the future, making everything so bright
+
+[Chorus]
+Sweet Times are here, growing from the ground
+The finest taste of nature, the best that can be found
+Pure and simple living, healthy and so clean
+We're building something better than you have ever seen
+Yeah, Sweet Times are here, let the goodness grow!
+
+[Outro]
+Growing from the ground...
+The finest taste of nature...
+Sweet Times...
+
+
+=== gemini_2a ===
+
+[Verse 1]
+Early morning quiet, the air is crisp and clear
+We take our time with nature, bringing something special here
+Focus on the details, keeping it so clean
+The highest standard rising, if you know just what I mean
+
+[Chorus]
+Welcome to the Sweet Times, crafted with such care
+Goodness from the harvest, a flavor beyond compare
+We're keeping it pure, honoring the earth
+Giving you the quality, showing you its worth
+
+[Verse 2]
+More of what is natural, less of what is not
+Preserving all the beauty in this world we’ve got
+A gentle way of living, a mindful way to eat
+Finding perfect balance, making life complete
+
+[Chorus]
+Welcome to the Sweet Times, crafted with such care
+Goodness from the harvest, a flavor beyond compare
+We're keeping it pure, honoring the earth
+Giving you the quality, showing you its worth
+
+[Bridge]
+Take a breath, feel the groove
+Watch the way the branches move
+Harmony in what we do
+Bringing all the best to you
+
+[Chorus]
+Welcome to the Sweet Times, crafted with such care
+Goodness from the harvest, a flavor beyond compare
+We're keeping it pure, honoring the earth
+Giving you the quality, showing you its worth
+
+[Outro]
+Sweet Times...
+Crafted with care...
+Honoring the earth...
+Yeah...
+
+
+=== gemini_2b ===
+
+[Verse 1]
+Early morning quiet, the air is crisp and clear
+We take our time with nature, bringing something special here
+Focus on the details, keeping it so clean
+The highest standard rising, if you know just what I mean
+
+[Chorus]
+Welcome to the Sweet Times, crafted with such care
+Goodness from the harvest, a flavor beyond compare
+We're keeping it pure, honoring the earth
+Giving you the quality, showing you its worth
+
+[Verse 2]
+More of what is natural, less of what is not
+Preserving all the beauty in this world we’ve got
+A gentle way of living, a mindful way to eat
+Finding perfect balance, making life complete
+
+[Chorus]
+Welcome to the Sweet Times, crafted with such care
+Goodness from the harvest, a flavor beyond compare
+We're keeping it pure, honoring the earth
+Giving you the quality, showing you its worth
+
+[Bridge]
+Take a breath, feel the groove
+Watch the way the branches move
+Harmony in what we do
+Bringing all the best to you
+
+[Chorus]
+Welcome to the Sweet Times, crafted with such care
+Goodness from the harvest, a flavor beyond compare
+We're keeping it pure, honoring the earth
+Giving you the quality, showing you its worth
+
+[Outro]
+Sweet Times...
+Crafted with care...
+Honoring the earth...
+Yeah...
+
+
+=== gemini_3a ===
+
+[Verse 1]
+Sunlight through the window, shining on the floor
+We're working in the kitchen, opening the door
+To a simpler kind of magic, rooted in the soil
+Honest work and passion, a labor of our toil
+
+[Chorus]
+Oh, these are the Sweet Times, natural and true
+Gifts from the good earth, prepared just for you
+Clean and full of promise, a better way to live
+Taking care of nature, with so much more to give
+
+[Verse 2]
+Every batch we make, we do it with our heart
+Hygiene and perfection, right from the very start
+A step towards the future, a greener, brighter way
+Nourishing the spirit, every single day
+
+[Chorus]
+Oh, these are the Sweet Times, natural and true
+Gifts from the good earth, prepared just for you
+Clean and full of promise, a better way to live
+Taking care of nature, with so much more to give
+
+[Bridge]
+Less of what consumes, more of what sustains
+Like the gentle river, like the steady rains
+We’re part of the circle, part of the great design
+Leaving all the heavy things so far behind
+
+[Chorus]
+Oh, these are the Sweet Times, natural and true
+Gifts from the good earth, prepared just for you
+Clean and full of promise, a better way to live
+Taking care of nature, with so much more to give
+
+[Outro]
+Sweet Times...
+Natural and true...
+
+
+=== gemini_3b ===
+
+[Verse 1]
+Sunlight through the window, shining on the floor
+We're working in the kitchen, opening the door
+To a simpler kind of magic, rooted in the soil
+Honest work and passion, a labor of our toil
+
+[Chorus]
+Oh, these are the Sweet Times, natural and true
+Gifts from the good earth, prepared just for you
+Clean and full of promise, a better way to live
+Taking care of nature, with so much more to give
+
+[Verse 2]
+Every batch we make, we do it with our heart
+Hygiene and perfection, right from the very start
+A step towards the future, a greener, brighter way
+Nourishing the spirit, every single day
+
+[Chorus]
+Oh, these are the Sweet Times, natural and true
+Gifts from the good earth, prepared just for you
+Clean and full of promise, a better way to live
+Taking care of nature, with so much more to give
+
+[Bridge]
+Less of what consumes, more of what sustains
+Like the gentle river, like the steady rains
+We’re part of the circle, part of the great design
+Leaving all the heavy things so far behind
+
+[Chorus]
+Oh, these are the Sweet Times, natural and true
+Gifts from the good earth, prepared just for you
+Clean and full of promise, a better way to live
+Taking care of nature, with so much more to give
+
+[Outro]
+Sweet Times...
+Natural and true...
+
+
+=== gemini_4a ===
+
+[Verse 1]
+Get up, get ready, the day has begun
+We’re mixing the best stuff right under the sun!
+Purity’s the mission, quality’s the game
+Sweet Times is the feeling, you know our name!
+
+[Chorus]
+We bring the Sweet Times! Yeah!
+Fresh from the ground!
+The cleanest, greenest flavor anywhere around!
+Protecting the planet with every single bite
+Doing it the right way, morning, noon, and night!
+
+[Verse 2]
+Scrubbing it spotless, keeping it pristine
+The finest operation you have ever seen
+Plant-powered energy, fueling up the soul
+Saving up the environment, yeah, that’s the goal!
+
+[Chorus]
+We bring the Sweet Times! Yeah!
+Fresh from the ground!
+The cleanest, greenest flavor anywhere around!
+Protecting the planet with every single bite
+Doing it the right way, morning, noon, and night!
+
+[Bridge]
+Keep it clean!
+Keep it green!
+Best you’ve ever seen!
+
+[Chorus]
+We bring the Sweet Times! Yeah!
+Fresh from the ground!
+The cleanest, greenest flavor anywhere around!
+Protecting the planet with every single bite
+Doing it the right way, morning, noon, and night!
+
+[Outro]
+Sweet Times!
+Oh yeah!
+Keep it green!
+
+
+=== gemini_4b ===
+
+[Verse 1]
+Get up, get ready, the day has begun
+We’re mixing the best stuff right under the sun!
+Purity’s the mission, quality’s the game
+Sweet Times is the feeling, you know our name!
+
+[Chorus]
+We bring the Sweet Times! Yeah!
+Fresh from the ground!
+The cleanest, greenest flavor anywhere around!
+Protecting the planet with every single bite
+Doing it the right way, morning, noon, and night!
+
+[Verse 2]
+Scrubbing it spotless, keeping it pristine
+The finest operation you have ever seen
+Plant-powered energy, fueling up the soul
+Saving up the environment, yeah, that’s the goal!
+
+[Chorus]
+We bring the Sweet Times! Yeah!
+Fresh from the ground!
+The cleanest, greenest flavor anywhere around!
+Protecting the planet with every single bite
+Doing it the right way, morning, noon, and night!
+
+[Bridge]
+Keep it clean!
+Keep it green!
+Best you’ve ever seen!
+
+[Chorus]
+We bring the Sweet Times! Yeah!
+Fresh from the ground!
+The cleanest, greenest flavor anywhere around!
+Protecting the planet with every single bite
+Doing it the right way, morning, noon, and night!
+
+[Outro]
+Sweet Times!
+Oh yeah!
+Keep it green!
+
+
+=== gemini_5a ===
+
+[Verse 1]
+A quiet revolution, starting from the seed
+Understanding nature, fulfilling every need
+Precision in the process, purity in mind
+Leaving all the old ways and heavy trails behind
+
+[Chorus]
+Welcome to the Sweet Times, a gentle kind of light
+Crafting something beautiful, doing something right
+A harmony of flavors, a promise to the earth
+Discovering a better way, realizing its worth
+
+[Verse 2]
+Every detail matters, every step is clear
+Bringing highest quality, year after year
+A shift in our perspective, a plant-based gentle sway
+Healing up the environment, day by day
+
+[Chorus]
+Welcome to the Sweet Times, a gentle kind of light
+Crafting something beautiful, doing something right
+A harmony of flavors, a promise to the earth
+Discovering a better way, realizing its worth
+
+[Bridge]
+Breathe in the future, clean and clear
+The balance we seek is already here
+In the choices we make, in the seeds that we sow
+Watch the Sweet Times begin to grow
+
+[Chorus]
+Welcome to the Sweet Times, a gentle kind of light
+Crafting something beautiful, doing something right
+A harmony of flavors, a promise to the earth
+Discovering a better way, realizing its worth
+
+[Outro]
+Sweet Times...
+A gentle light...
+
+
+=== gemini_5b ===
+
+[Verse 1]
+A quiet revolution, starting from the seed
+Understanding nature, fulfilling every need
+Precision in the process, purity in mind
+Leaving all the old ways and heavy trails behind
+
+[Chorus]
+Welcome to the Sweet Times, a gentle kind of light
+Crafting something beautiful, doing something right
+A harmony of flavors, a promise to the earth
+Discovering a better way, realizing its worth
+
+[Verse 2]
+Every detail matters, every step is clear
+Bringing highest quality, year after year
+A shift in our perspective, a plant-based gentle sway
+Healing up the environment, day by day
+
+[Chorus]
+Welcome to the Sweet Times, a gentle kind of light
+Crafting something beautiful, doing something right
+A harmony of flavors, a promise to the earth
+Discovering a better way, realizing its worth
+
+[Bridge]
+Breathe in the future, clean and clear
+The balance we seek is already here
+In the choices we make, in the seeds that we sow
+Watch the Sweet Times begin to grow
+
+[Chorus]
+Welcome to the Sweet Times, a gentle kind of light
+Crafting something beautiful, doing something right
+A harmony of flavors, a promise to the earth
+Discovering a better way, realizing its worth
+
+[Outro]
+Sweet Times...
+A gentle light...
+

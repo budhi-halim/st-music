@@ -1,0 +1,7 @@
+# Installed ONLY into .venv-lyrics by setup_lyrics.py.
+# PyTorch + torchaudio are installed first from the selected official wheel index.
+stable-ts==2.19.1
+openai-whisper==20250625
+numpy>=1.26,<2.3
+torch==2.7.1
+torchaudio==2.7.1

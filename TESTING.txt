@@ -1,0 +1,44 @@
+SWEET TIMES MUSIC - VALIDATION NOTES
+2026-10-07
+
+PASSED
+- 26 Python unit/integration tests using temporary fixture files:
+  master parsing/20 independent recording blocks; metadata and repetitions;
+  all 40 rename patterns; content-hash preservation; collisions/no overwrites;
+  already-renamed files; timestamp validation and preserved gaps; rejected
+  mismatched alignment output; stale-result invalidation after text/audio
+  changes; publication; mocked-backend all-track run, resume and single edit.
+- 23 JavaScript assertions: cue lookup and half-open time boundaries, plain
+  and partial timed data, invalid cues rejected, retired-worker event behavior
+  with a mocked CacheStorage/registration, and no page-side registration call.
+- JavaScript syntax checks for all app scripts, sw.js and the JS test.
+- Python compilation checks for the tools.
+- Chromium in-memory playback/UI checks with synthetic audio and lyric data:
+  1440x1000 desktop, 390x844 phone, 360x640 small phone, 844x390 landscape.
+  Active lines; instrumental gaps; paused tap-to-seek; manual-scroll override;
+  Follow lyrics; existing track navigation; plain-text fallback; controls
+  remaining on-screen; no horizontal overflow; light/dark appearance.
+- Screenshots inspected for layout. No browser JavaScript errors in these checks.
+
+LIMITATIONS
+No user recordings were supplied for this revision. The distributed lyric data
+is plain and untimed; no test timestamps or generated sample audio are shipped.
+The backend's orchestration/validation was tested with a mocked aligner, not a
+real downloaded Whisper model. Actual forced-alignment quality and Windows
+CUDA setup have NOT been tested here. Run one real recording first as described
+in SETUP.txt, then inspect the combined review and listen before batch use.
+
+This execution environment blocks browser URL navigation by administrator
+policy. UI checks therefore used in-memory HTML/CSS/JS with mapped synthetic
+audio sources and a fixture lyric response, rather than a live HTTP deployment.
+No policy settings were changed. This does not verify your Live Server's
+range responses, MIME headers, cache behavior or physical device playback.
+Physical Android/iOS testing and end-to-end browser service-worker migration
+were not performed. The worker retirement assertions use a simulated context.
+
+RE-RUN INCLUDED DEPENDENCY-FREE TESTS
+From the project root:
+   python -m unittest discover -s tests -v
+   node tests/test_lyrics_logic.js
+Node is optional and is NOT required to run the website or preprocess lyrics.
+The original in-memory browser harness is not a required project dependency.

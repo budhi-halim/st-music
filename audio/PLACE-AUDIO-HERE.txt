@@ -1,0 +1,47 @@
+Place all 40 audio files directly in this folder. Do not create subfolders.
+Use the exact lowercase names below.
+
+chatgpt_1a.opus
+chatgpt_1a.m4a
+chatgpt_1b.opus
+chatgpt_1b.m4a
+chatgpt_2a.opus
+chatgpt_2a.m4a
+chatgpt_2b.opus
+chatgpt_2b.m4a
+chatgpt_3a.opus
+chatgpt_3a.m4a
+chatgpt_3b.opus
+chatgpt_3b.m4a
+chatgpt_4a.opus
+chatgpt_4a.m4a
+chatgpt_4b.opus
+chatgpt_4b.m4a
+chatgpt_5a.opus
+chatgpt_5a.m4a
+chatgpt_5b.opus
+chatgpt_5b.m4a
+gemini_1a.opus
+gemini_1a.m4a
+gemini_1b.opus
+gemini_1b.m4a
+gemini_2a.opus
+gemini_2a.m4a
+gemini_2b.opus
+gemini_2b.m4a
+gemini_3a.opus
+gemini_3a.m4a
+gemini_3b.opus
+gemini_3b.m4a
+gemini_4a.opus
+gemini_4a.m4a
+gemini_4b.opus
+gemini_4b.m4a
+gemini_5a.opus
+gemini_5a.m4a
+gemini_5b.opus
+gemini_5b.m4a
+
+.opus: Opus audio in an Ogg container.
+.m4a: AAC audio in an MPEG-4 container (AAC-LC is the fallback target).
+Renaming an extension does not convert the audio format.

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="theme-color" content="#f7f4f1" id="theme-color">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Sweet Times Music</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="data/tracks.js" defer></script>
+  <script src="js/logic.js" defer></script>
+  <script src="js/audio-engine.js" defer></script>
+  <script src="js/lyrics.js" defer></script>
+  <script src="js/ui.js" defer></script>
+</head>
+<body>
+  <div class="app-shell" id="app-shell">
+    <header class="app-header">
+      <div class="brand"><span class="brand-mark" aria-hidden="true"><svg class="icon"><use href="assets/icons.svg#wave"></use></svg></span><h1>Sweet Times <span>Music</span></h1></div>
+      <div class="header-actions">
+        <button class="icon-button install-button" id="install-button" aria-label="Install app" title="Install app" hidden><svg class="icon"><use href="assets/icons.svg#install"></use></svg></button>
+        <button class="icon-button keyboard-button" data-action="shortcuts" aria-label="Keyboard shortcuts" title="Keyboard shortcuts"><svg class="icon"><use href="assets/icons.svg#keyboard"></use></svg></button>
+        <button class="icon-button" id="theme-button" aria-label="Switch to dark mode" title="Switch to dark mode"><svg class="icon"><use href="assets/icons.svg#moon"></use></svg></button>
+      </div>
+    </header>
+    <main class="workspace">
+      <section class="library" aria-labelledby="library-title">
+        <div class="library-toolbar">
+          <div class="library-heading"><div><p class="eyebrow" id="library-count">20 tracks</p><h2 id="library-title">Library</h2></div><button class="play-all-button" id="play-all"><svg class="icon"><use href="assets/icons.svg#play"></use></svg><span>Play all</span></button></div>
+          <div class="search-field"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#search"></use></svg><input id="search" type="search" placeholder="Search tracks" aria-label="Search tracks" autocomplete="off" autocapitalize="off" spellcheck="false"><button class="search-clear icon-button" id="search-clear" aria-label="Clear search" title="Clear search" hidden><svg class="icon"><use href="assets/icons.svg#close"></use></svg></button></div>
+          <div class="filters" role="group" aria-label="Filter library">
+            <button class="filter-button" data-filter="all" aria-pressed="true">All <span>20</span></button>
+            <button class="filter-button" data-filter="chatgpt" aria-pressed="false">ChatGPT <span>10</span></button>
+            <button class="filter-button" data-filter="gemini" aria-pressed="false">Gemini <span>10</span></button>
+            <button class="filter-button favorites-filter" data-filter="favorites" aria-pressed="false"><svg class="icon"><use href="assets/icons.svg#heart"></use></svg><span class="filter-name">Favorites</span><span id="favorites-count">0</span></button>
+          </div>
+        </div>
+        <div class="track-scroll" id="track-scroll" tabindex="0" aria-label="Track library">
+          <div class="list-heading" aria-hidden="true"><span>TRACK</span><svg class="icon"><use href="assets/icons.svg#clock"></use></svg></div>
+          <ol class="track-list" id="track-list"></ol>
+          <div class="empty-state" id="empty-state" hidden><svg class="icon"><use href="assets/icons.svg#search"></use></svg><h3 id="empty-title">No tracks found</h3><button class="text-button" id="clear-filters">Clear filters</button></div>
+        </div>
+      </section>
+      <aside class="player-host" id="player-host" aria-label="Audio player">
+        <section class="player-panel" id="player-panel" aria-label="Now playing">
+          <div class="panel-heading"><button class="icon-button player-collapse" data-action="close-player" aria-label="Minimize player"><svg class="icon"><use href="assets/icons.svg#chevron-down"></use></svg></button><h2>Now playing</h2><span class="format-label" id="format-label" hidden>OPUS</span><button class="icon-button" data-action="downloads" aria-label="Download track" title="Download track"><svg class="icon"><use href="assets/icons.svg#download"></use></svg></button></div>
+          <div class="player-content">
+            <div class="cover-art" id="cover-art" aria-hidden="true"><div class="cover-top"><span>SWEET TIMES</span><svg class="icon"><use href="assets/icons.svg#wave"></use></svg></div><div class="record"><div class="record-center"><svg class="icon"><use href="assets/icons.svg#wave"></use></svg></div></div><div class="cover-bottom"><span id="cover-source">ChatGPT</span><span id="cover-code">01 / A</span></div></div>
+            <section class="lyrics-panel" id="lyrics-panel" aria-label="Lyrics" hidden>
+              <div class="lyrics-toolbar"><span id="lyrics-status" role="status">Loading lyrics…</span><div class="lyrics-actions"><button class="follow-lyrics" id="follow-lyrics" hidden>Follow lyrics</button><button class="icon-button lyrics-reload" id="lyrics-reload" aria-label="Reload lyrics" title="Reload lyrics"><svg class="icon"><use href="assets/icons.svg#refresh"></use></svg></button></div></div>
+              <div class="lyrics-scroll" id="lyrics-scroll" tabindex="0" aria-label="Song lyrics"><div id="lyrics-lines" class="lyrics-lines"></div></div>
+            </section>
+            <div class="current-track"><div><h3 id="current-title">ChatGPT 1A</h3><p id="current-subtitle">Prompt 1 · Version A</p></div><button class="icon-button favorite-current" data-action="favorite" aria-label="Add current track to favorites" title="Add to favorites" aria-pressed="false"><svg class="icon"><use href="assets/icons.svg#heart"></use></svg></button></div>
+            <div class="playback-status" id="playback-status" role="status" aria-live="polite"><span id="playback-message"></span><button class="text-button" id="retry-button" data-action="retry" hidden>Retry</button></div>
+            <div class="timeline"><div class="range-wrap"><div class="range-track" aria-hidden="true"><span class="buffer-fill" id="buffer-fill"></span><span class="progress-fill" id="progress-fill"></span></div><input id="seek" class="range-input" type="range" min="0" max="100" step="0.1" value="0" aria-label="Playback position" aria-valuetext="0:00" disabled></div><div class="time-labels"><span id="elapsed">0:00</span><button class="time-toggle" id="remaining-toggle" title="Show remaining time" aria-label="Show remaining time"><span id="duration">—:—</span></button></div></div>
+            <div class="transport"><button class="icon-button mode-button" data-action="shuffle" aria-label="Turn shuffle on" title="Shuffle off" aria-pressed="false"><svg class="icon"><use href="assets/icons.svg#shuffle"></use></svg></button><button class="icon-button skip-button" data-action="previous" aria-label="Previous track or restart" title="Previous: restart after 1 second"><svg class="icon"><use href="assets/icons.svg#previous"></use></svg></button><button class="play-button" data-action="play" aria-label="Play" title="Play"><svg class="icon"><use href="assets/icons.svg#play"></use></svg></button><button class="icon-button skip-button" data-action="next" aria-label="Next track" title="Next track"><svg class="icon"><use href="assets/icons.svg#next"></use></svg></button><button class="icon-button mode-button" data-action="repeat" aria-label="Repeat off. Enable repeat all" title="Repeat off" aria-pressed="false"><svg class="icon"><use href="assets/icons.svg#repeat"></use></svg></button></div>
+            <div class="volume-control"><button class="icon-button" data-action="mute" aria-label="Mute" title="Mute"><svg class="icon"><use href="assets/icons.svg#volume"></use></svg></button><div class="range-wrap volume-range"><div class="range-track" aria-hidden="true"><span class="progress-fill" id="volume-fill"></span></div><input id="volume" class="range-input" type="range" min="0" max="100" step="1" value="80" aria-label="Volume"></div><span id="volume-value">80%</span></div>
+            <p class="device-volume" id="device-volume" hidden>Use your device’s volume buttons.</p>
+            <div class="player-tools"><label class="speed-control" title="Playback speed"><svg class="icon" aria-hidden="true"><use href="assets/icons.svg#speed"></use></svg><select id="speed" aria-label="Playback speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label><button class="queue-button lyrics-toggle" data-action="lyrics" aria-controls="lyrics-panel" aria-pressed="false"><svg class="icon"><use href="assets/icons.svg#lyrics"></use></svg><span>Lyrics</span></button><button class="queue-button" data-action="queue"><svg class="icon"><use href="assets/icons.svg#queue"></use></svg><span>Queue</span><span class="queue-count" id="queue-count">20</span></button></div>
+          </div>
+        </section>
+      </aside>
+    </main>
+    <section class="mini-player" id="mini-player" aria-label="Mini player">
+      <div class="mini-progress" aria-hidden="true"><span id="mini-progress-fill"></span></div>
+      <button class="mini-info" data-action="open-player" aria-label="Open now playing"><span class="mini-cover" aria-hidden="true"><svg class="icon"><use href="assets/icons.svg#wave"></use></svg></span><span class="mini-text"><strong id="mini-title">ChatGPT 1A</strong><span id="mini-subtitle">Prompt 1 · Version A</span></span></button>
+      <button class="icon-button mini-play" data-action="play" aria-label="Play" title="Play"><svg class="icon"><use href="assets/icons.svg#play"></use></svg></button><button class="icon-button mini-next" data-action="next" aria-label="Next track" title="Next track"><svg class="icon"><use href="assets/icons.svg#next"></use></svg></button>
+    </section>
+  </div>
+  <dialog class="player-dialog" id="player-dialog" aria-label="Now playing"></dialog>
+  <dialog class="sheet-dialog" id="queue-dialog" aria-labelledby="queue-title"><div class="sheet-heading"><div><h2 id="queue-title">Queue</h2><p id="queue-summary">20 tracks</p></div><button class="icon-button" data-close="queue-dialog" aria-label="Close queue"><svg class="icon"><use href="assets/icons.svg#close"></use></svg></button></div><div class="queue-scroll"><ol id="queue-list" class="queue-list"></ol></div></dialog>
+  <dialog class="sheet-dialog compact-dialog" id="download-dialog" aria-labelledby="download-title"><div class="sheet-heading"><div><h2 id="download-title">Download</h2><p id="download-track">ChatGPT 1A</p></div><button class="icon-button" data-close="download-dialog" aria-label="Close download options"><svg class="icon"><use href="assets/icons.svg#close"></use></svg></button></div><div class="download-options"><a id="download-opus" class="download-option" href="audio/chatgpt_1a.opus" download><svg class="icon"><use href="assets/icons.svg#download"></use></svg><span>Opus</span><span>.opus</span></a><a id="download-aac" class="download-option" href="audio/chatgpt_1a.m4a" download><svg class="icon"><use href="assets/icons.svg#download"></use></svg><span>AAC</span><span>.m4a</span></a></div></dialog>
+  <dialog class="sheet-dialog compact-dialog" id="shortcuts-dialog" aria-labelledby="shortcuts-title"><div class="sheet-heading"><h2 id="shortcuts-title">Keyboard shortcuts</h2><button class="icon-button" data-close="shortcuts-dialog" aria-label="Close shortcuts"><svg class="icon"><use href="assets/icons.svg#close"></use></svg></button></div><dl class="shortcuts"><div><dt>Play / pause</dt><dd><kbd>Space</kbd> / <kbd>K</kbd></dd></div><div><dt>Previous / next track</dt><dd><kbd>P</kbd> / <kbd>N</kbd></dd></div><div><dt>Seek 5 seconds</dt><dd><kbd>←</kbd> / <kbd>→</kbd></dd></div><div><dt>Seek 10 seconds</dt><dd><kbd>J</kbd> / <kbd>L</kbd></dd></div><div><dt>Volume</dt><dd><kbd>↑</kbd> / <kbd>↓</kbd></dd></div><div><dt>Mute</dt><dd><kbd>M</kbd></dd></div><div><dt>Shuffle / repeat</dt><dd><kbd>S</kbd> / <kbd>R</kbd></dd></div><div><dt>Search</dt><dd><kbd>/</kbd></dd></div></dl></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <audio id="audio" preload="metadata" playsinline></audio>
+  <noscript><div class="noscript-message">Enable JavaScript to use the music player.</div></noscript>
+</body>
+</html>

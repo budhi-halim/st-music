@@ -1,0 +1,312 @@
+SWEET TIMES MUSIC - SYNCED LYRICS EDITION
+
+This is a full replacement app, not just an add-on. Copy the CONTENTS of the
+ZIP's st-music folder into your existing st-music project and replace matching
+files. Keep your audio/ folder and recordings. No recordings are in this ZIP.
+Do not put a second st-music folder inside your existing st-music folder.
+
+There is NO new service-worker registration in this edition. The small sw.js
+file is a retirement endpoint for a previously installed version only. See
+SERVICE WORKER below before opening the app.
+
+The ZIP contains the theoretical lyrics, not timestamps for your recordings.
+Run the local alignment step below to generate real estimated line timings.
+Until then, the Lyrics view shows readable, unsynchronized text.
+
+QUICK START (WINDOWS COMMAND PROMPT)
+
+1. Copy/replace the files, keeping your existing audio files in audio/.
+   Open Command Prompt and enter:
+
+   cd /d "C:\Users\halim\OneDrive\VS Code\GitHub\st-music"
+
+2. Preview the audio renames. This command does not rename anything:
+
+   python tools/rename_audio.py
+
+   Then apply the displayed plan:
+
+   python tools/rename_audio.py --apply
+
+   Example:
+   sweet-times-music-chatgpt-1a-preview-seed-42.opus -> chatgpt_1a.opus
+   sweet-times-music-chatgpt-1a-preview-seed-42.m4a  -> chatgpt_1a.m4a
+
+   This covers ChatGPT/Gemini, 1-5, a/b, and both formats. The variant is read
+   from the name, not guessed from its seed. Unrecognized files are untouched.
+   Collisions block the entire plan before any renaming. Existing destinations
+   are never overwritten. Audio bytes are checked with SHA-256 before/after.
+   Rerunning after successful completion is safe. All renames and any rollback
+   are recorded in .runtime/rename-journal.json and the run log.
+   Rename only after the generator has finished writing/exporting the files.
+
+   The scripts locate the project relative to themselves, not the terminal's
+   current folder. From inside audio/, use python ..\tools\rename_audio.py.
+
+3. Review and edit this ONE text file:
+
+   lyrics/recordings.txt
+
+   All 20 recordings have separate === recording_id === blocks. Versions a
+   and b initially have the same text but are edited and aligned independently.
+   The two encodings of one recording share a single block and timing set.
+
+   Keep IDs unchanged. Keep one sung line per physical line. Add repetitions
+   in full, and remove words or sections the finished performance did not sing.
+   Standalone [Verse 1], [Chorus], etc. are metadata, not aligned words.
+   Lines starting with # are comments. Save as UTF-8. No timestamps to enter.
+   Gemini's non-sung fade/instrument directions were removed; Yeah!/Oh yeah!
+   and similar sung ad-libs were preserved. The lyrics were not substantively
+   rewritten or checked against audio that was not supplied.
+
+   Optional preflight; this needs no alignment packages or model:
+
+   python tools/lyrics.py check
+
+4. Prepare the local alignment environment once:
+
+   ffmpeg -version
+   python tools/setup_lyrics.py --device cuda
+
+   Requirements for this pinned environment: 64-bit Python 3.10, 3.11 or 3.12,
+   an NVIDIA GPU/driver usable by the installed CUDA build, and FFmpeg.
+   Python 3.11 is the recommended environment version. If the Python used to
+   launch setup is outside 3.10-3.12, setup tries to find a supported Python
+   through the Windows py launcher. It does not replace your existing Python.
+
+   Reuse your existing FFmpeg. It must be on PATH for this terminal, or copy
+   an existing Windows FFmpeg distribution into tools/ffmpeg/bin/ (so that
+   tools/ffmpeg/bin/ffmpeg.exe exists). A shared build also needs its companion
+   DLLs. Setup never changes the global PATH or the YuE2/ComfyUI environment.
+
+   Setup creates .venv-lyrics in this project, installs the pinned dependencies,
+   and tests the imports plus a real CPU/GPU operation. Internet is needed for
+   package downloads; the model downloads on the first alignment. Allow several
+   GB of disk space for the environment, package cache, and model weights.
+   CPU-only setup is available with --device cpu instead of --device cuda.
+
+5. Finish music generation and close YuE2/ComfyUI to free GPU memory. Align one
+   recording first, then listen to its timing in the player:
+
+   python tools/lyrics.py align --track chatgpt_1a
+
+   Align the complete collection:
+
+   python tools/lyrics.py align
+
+   There is no environment activation step: AI commands find .venv-lyrics
+   automatically. The default model is medium.en. The scripts log the current
+   operation, progress, counts, elapsed time, and a periodic heartbeat. Each
+   completed recording is saved and published immediately. Rerun after an
+   interruption to resume; unchanged completed recordings are skipped.
+
+6. Open index.html through VS Code Live Server as usual. No npm/build/backend
+   is required for the website. It does not run Python or AI for visitors.
+   No Live Server hostname or port is set by the supplied workspace settings.
+
+   Open the full player, then select Lyrics. Timed lines highlight and follow
+   the actual audio position. Scroll manually to pause following, and select
+   Follow lyrics to resume. Tap a timed line to seek; paused playback remains
+   paused. Gaps between cue ranges have no active highlight. The normal audio
+   player, shuffle/repeat, seeking, volume, queue, and format fallback remain.
+
+   After a preprocessing run, use the circular reload icon in the lyrics
+   header to fetch data/lyrics.json without restarting audio, or reload the
+   page. The supplied .vscode/settings.json ignores preprocessing/cache/text
+   changes for Live Server reloads so an alignment run does not repeatedly
+   interrupt playback. It does NOT freeze a hostname, reserve a port, or
+   disable normal reloads for HTML/CSS/JS edits.
+
+   If you already have custom .vscode/settings.json or .gitignore settings,
+   merge the supplied ignore rules rather than discarding your custom rules.
+
+EDITING AFTER THE FIRST ALIGNMENT
+
+Edit lyrics/recordings.txt, then run:
+
+   python tools/lyrics.py align
+
+Only entries whose lyrics, audio bytes, or alignment settings changed need new
+alignment. A and B never reuse one another's timings. An edit to an earlier
+block does not invalidate later blocks just because their file line numbers
+moved. Do not edit the master while an alignment is running; finish edits first.
+
+To update only the displayed text without loading any model:
+
+   python tools/lyrics.py publish
+
+Unchanged valid timing is retained; changed text/audio loses its old timing
+and displays as plain lyrics until it is realigned. The browser reads the
+published data/lyrics.json, not the editable TXT directly. Publish or align
+must be run after every master-text change.
+
+Additional commands:
+
+   python tools/lyrics.py doctor --device cuda
+   python tools/lyrics.py align --track gemini_1a gemini_1b
+   python tools/lyrics.py align --track "gemini_*"
+   python tools/lyrics.py align --track chatgpt_1a --force
+   python tools/lyrics.py align --model small.en
+   python tools/lyrics.py align --device cpu --model small.en
+
+Doctor checks dependencies/FFmpeg and a small compute operation; it does not
+load a model or prove there is sufficient VRAM for an entire recording.
+Changing --model changes the settings signature and realigns selected tracks.
+To keep using an alternative model, repeat the same --model argument later.
+
+TIMING QUALITY AND REVIEW
+
+Automatic forced alignment is an estimate, not a verified transcription.
+Supply the actual performed words and repetitions as closely as possible.
+Review instrumental breaks, layered vocals, held notes, and repeated choruses.
+A track with no warning is NOT guaranteed correct.
+
+The tool uses stable-ts / Whisper to align supplied text and preserve original
+line boundaries, then publishes start/end times for lines only. It does not
+spread lines evenly across a song or fabricate timestamps for failed lines.
+
+Diagnostics:
+   .runtime/lyrics/review.txt           One combined human-readable review
+   .runtime/lyrics/report.json          Machine-readable status/errors
+   .runtime/lyrics/alignments/          Per-recording results and fingerprints
+   .runtime/lyrics/raw/                 Original backend output
+   .runtime/logs/                       Timestamped logs of each script run
+
+Suspicious durations, low model word probabilities, unusable timings, overlaps,
+and encoding-duration differences are flagged. Low probabilities are heuristics,
+not calibrated confidence scores. Invalid cues stay visible but untimed. Gross
+line-count/text mismatches fail instead of publishing shifted lyric mappings.
+
+The review TXT is a REPORT, not an input for editing timestamps. Correct the
+master transcript and rerun first. A timing editor is not included in this
+revision. data/lyrics.json is generated output and later publishing replaces it.
+
+Optional advanced input: existing isolated vocal WAVs can be used with:
+
+   python tools/lyrics.py align --vocals-dir lyrics/vocals
+
+Each WAV must be named after its recording ID, such as chatgpt_1a.wav, and must
+retain the exact untrimmed timeline of the playback audio. The tool checks
+matching duration, but duration equality alone cannot prove identical timing.
+This tool does not generate or separate vocal stems itself.
+
+Opus and M4A are assumed to be encodings of the same untrimmed recording. The
+aligner prefers Opus and compares decoded durations when both are available.
+Equal duration alone does not prove identical leading silence or timing. Export
+both formats from the same source with matching trimming and silence settings.
+
+MODEL AND ENVIRONMENT NOTES
+
+Pinned: stable-ts 2.19.1, openai-whisper 20250625, torch/torchaudio 2.7.1.
+GPU setup uses the official CUDA 12.8 wheel family; CPU setup is also available.
+The stable-ts upstream repository was archived on May 30, 2026. This package
+uses its documented alignment API in an isolated, pinned environment; it does
+not assume ongoing upstream maintenance or install into your music generator.
+See DEPENDENCIES.txt for official sources and TESTING.txt for validation limits.
+
+After the initial package/model download, the preparation scripts process your
+local audio and lyrics locally. They do not call a transcription cloud service
+or upload the recordings. The browser downloads only your website/audio/data.
+Weights and caches stay in .runtime/, and Python packages in .venv-lyrics/.
+These are ignored by Git; Git ignore rules do not configure OneDrive syncing.
+
+OUT-OF-MEMORY / INTERRUPTED RUNS
+
+Close YuE2/ComfyUI and other GPU workloads, then rerun the same command. Try
+--model small.en or --device cpu if needed. Completed results are preserved.
+Normal Ctrl+C releases the run lock. A forcibly killed process may leave a
+.runtime/*.lock file; the error reports its path. Verify no related process is
+still running before removing that stale lock. Do not delete all runtime files
+just to clear a lock: the alignment cache and downloaded models live there.
+
+SERVICE WORKER: WHAT CHANGED
+
+A service worker is browser-side request-handling code associated with a web
+origin and URL scope. It is not an HTTP server. It cannot bind or reserve your
+computer's IP address/port and cannot make Live Server keep a port occupied.
+It can, however, serve cached pages for URLs within its scope. Reusing one
+localhost origin/root for different projects can expose an old registration
+and make a different or obsolete app appear. An installed app shortcut can
+also keep opening its original launch URL. These are possible explanations
+for an apparent 'frozen address', not a diagnosis of a previous incident.
+
+Original package: registered sw.js on eligible origins, precached the app shell,
+used network-first shell requests with cached fallback on network failure, and
+bypassed audio/range requests. It did not intentionally cache your songs.
+
+This revision: no navigator.serviceWorker.register call. No new persistent app
+shell cache, no audio cache, no fetch interception by newly installed app code.
+Normal browser HTTP caching and saved player preferences are separate features;
+removing the service worker does not erase preferences or disable all caching.
+
+Why sw.js is still included:
+It is a RETIREMENT ENDPOINT at the old URL, not registered by the new page.
+When an existing registration updates to it, it deletes only cache names
+starting with sweet-times-music-shell-, then unregisters itself. It has no
+fetch handler and does not reload open clients. Fresh installations never
+install it. Existing clients may need to be closed/reopened for old control
+and resources to be completely gone; migration is not promised instantaneous.
+
+Since you have not run the original app, there should be no Sweet Times worker
+from that version to remove. An unrelated old project's worker on the same
+origin is separate; this revision does not unregister unrelated workers.
+
+For an old registration that is actually causing trouble:
+Open that exact local origin in Chrome/Edge, open Developer Tools > Application
+> Service workers, inspect the script URL/scope, and unregister the offending
+registration. Close its tabs/installed app windows and reopen from Live Server.
+Delete its specific Cache Storage entries if needed. Avoid indiscriminately
+clearing all site storage: that can erase saved preferences for that origin.
+A normal reload alone is not the same operation as unregistering a worker.
+
+The manifest remains for app metadata and browser installation where offered.
+Its launch path is relative; there is no hardcoded IP or port. It does not
+provide offline storage. Use a normal browser tab during development; there is
+no need to install this site as an app. Without offline caching, your local
+server must be running to load uncached files. Localhost is local serving,
+not uploading to a public host, but file:// is not the supported launch method.
+
+PROJECT LAYOUT
+
+   index.html
+   audio/                    Put all 40 recordings directly here
+   assets/                   Local icons and app assets
+   css/                      Existing theme/layout plus lyric styles
+   js/                       Player, queue, interface, synced-lyrics display
+   data/tracks.js            Track names/order/audio paths
+   data/lyrics.json           Published lyric data read by the player
+   lyrics/recordings.txt      The single editable master, all 20 recordings
+   tools/                    Renamer, setup, alignment and publication scripts
+   tests/                    Python and JavaScript checks
+   .vscode/settings.json     Ignore preprocessing files for Live Server reload
+   .gitignore                Keep environments/cache out of Git
+   manifest.webmanifest      Relative launch metadata, no offline cache
+   sw.js                     Retired-worker migration endpoint ONLY
+   SETUP.txt                 These instructions
+   DEPENDENCIES.txt           Official sources/version and licensing notes
+   TESTING.txt               What was and was not tested
+
+Generated locally (not in ZIP, not needed on the web host):
+   .venv-lyrics/              Isolated Python environment
+   .runtime/models/          Downloaded model files
+   .runtime/cache/           Package/backend caches
+   .runtime/logs/            Script progress logs
+   .runtime/lyrics/          Alignment caches, raw results, combined report
+   .runtime/rename-journal.json
+
+STATIC DEPLOYMENT
+
+Publish index.html, assets/, css/, js/, data/, your audio/, manifest.webmanifest,
+and sw.js (retain the last two during migration). The website does not need
+Python, tools/, tests/, lyrics/, .venv-lyrics/, or .runtime/ on the public host.
+Use actual Ogg Opus and AAC-in-M4A files; changing an extension is not encoding.
+Use a server with HTTP byte-range support for reliable streaming and seeking.
+Suggested media types: Opus audio/ogg; M4A audio/mp4. Do not rewrite missing audio
+or data requests to index.html. The player uses bounded codec fallback; missing
+both formats stops with Retry rather than skipping endlessly through the queue.
+
+Your original controls, system-following light/dark launch preference, session
+light/dark toggle, local saved playback settings, and keyboard shortcuts remain.
+Press ? in the app for keyboard help. Browser/OS accessibility settings may
+still override zoom suppression. Background playback/Media Session support
+depends on browser and OS behavior, not the presence of this retired worker.
